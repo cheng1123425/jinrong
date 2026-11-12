@@ -1,0 +1,119 @@
+【原文标题】笔者将继续复现 JASON's Alpha 这篇研报中的因子：Operating cash inflow surprise（预期外经营现金流入）
+
+【原文正文要点】
+作者称该因子计算步骤与同研报的「J 因子（EPS 增速跳跃因子）」类似，都用过去一段时间的基本面数据做线性回归。
+区别：EPS 增速跳跃因子只用利润表；本因子需要现金流量表 + 资产负债表两张表。
+
+作者自述："这种基本面的因子让笔者讲也讲不出来什么东西了"，因此计算公式用截图给出，未转录为文字/公式。
+作者自述 IC 不高是基本面因子的常态，因为算的是 21 日滚动 IC；但"回测区间里每一年的 IC 都是正数"。
+作者自述换手率不高：21 天调仓，每次调仓换手率不超过 35%。
+作者自述分层回测"近乎完美的单调性"，除因子值最小的两组净值接近外，其余时间"比较完美"，且因子值最大的两组与其他组"基本上没有什么相交的情况"。
+作者提到某位大佬复现基本面因子时被留言质疑"用量化来搞基本面，怕不是喝多了"。
+
+【原文代码 · 第 1 段：数据读取与拼接】
+
+def __call__(self):
+    cashflow = ReportDataLoader.load_data('../../data/stock/report_cashflow1.parquet',
+                                        fields=['goods_sale_and_service_render_cash'],
+                                        start = '2017-10-01',
+                                        lag='10Q')
+    cashflow_flag = cashflow.season_data.values == 1
+    cash = []
+    for i in range(10):
+        tmp_cash = cal_quarter_data(cashflow.data, cashflow_flag, i, 1, cashflow.season_data.values)
+        cashflow.season_data -= 1
+        cashflow.season_data = cashflow.season_data.replace(0, 4)
+        cashflow_flag = cashflow.season_data.values == 1
+        cash.append(tmp_cash)
+    cash = np.stack(cash, axis=1)
+    balance = ReportDataLoader.load_data('../../data/stock/report_balance1.parquet',
+                                          fields=['account_receivable', 'bill_receivable',
+                                                  'advance_payment', 'inventories'],
+                                          start='2017-10-01', codes=cashflow.codes,
+                                          lag='9Q').to_dataframes()
+    rcv = []
+    cur = None
+    for i in range(9):
+        if cur is None:
+            cur = (balance['account_receivable_lag{}Q'.format(i)] + balance['bill_receivable_lag{}Q'.format(i)] +
+                   balance['advance_payment_lag{}Q'.format(i)] + balance['inventories_lag{}Q'.format(i)])
+        old = (balance['account_receivable_lag{}Q'.format(i + 1)] + balance['bill_receivable_lag{}Q'.format(i + 1)] +
+                   balance['advance_payment_lag{}Q'.format(i + 1)] + balance['inventories_lag{}Q'.format(i + 1)])
+        rcv.append((cur - old).values)
+        cur = old
+    rcv = np.stack(rcv, axis=1)
+    res = Parallel(n_jobs=16, verbose=10, backend='loky')(
+        delayed(self.cal_resi)(cash[i, :, :], rcv[i, :, :]) for i in range(len(cash)))
+    res = pd.DataFrame(res, index=cashflow.trade_days, columns=cashflow.codes)
+    res.index.name = 'datetime'
+    res.reset_index(inplace=True)
+    res = pd.melt(res, id_vars='datetime', var_name='code', value_name='g_eps')
+    res.to_parquet('./g_eps2.parquet')
+
+作者说明：第一段代码主要起到读取并处理财报数据的作用，这些在 EPS 增速跳跃因子中介绍过，此处不赘述。
+
+【原文代码 · 第 2 段】
+
+def cal_resi(self, cash, rcv):
+    res = []
+    for i in range(cash.shape[1]):
+        res.append(self.__cal_resi__(cash[:, i], rcv[:, i]))
+    return res
+
+作者说明：第二段代码主要是遍历每个标的，按标的进行线性回归，计算因子。
+
+【原文代码 · 第 3 段】
+
+@staticmethod
+def __cal_resi__(y, x):
+    """
+    计算回归残差和原始因子值（带行级NaN删除）
+    参数：y, x 均为长度为10的列表/数组，按时间倒序排列（索引0最新）
+    """
+    if len(y) < 4 or len(x) < 4 or np.isnan(y[0]) or np.isnan(y[1]) or np.isnan(x[0]):
+        return np.nan
+    max_samples = min(8, len(y) - 1)  # 至少要有1个样本，但我们会检查
+    train_y = y[1:1 + max_samples]  # 对应 CFO_int_{t-7} 到 ...
+    train_x1 = y[2:2 + max_samples]  # 对应 CFO_int_{t-8} 到 ...
+    train_x2 = x[1:1 + max_samples]  # 对应 Δrcv_{t-7} 到 ...
+    train_data = np.column_stack([train_y, train_x1, train_x2])
+    train_data_clean = train_data[~np.isnan(train_data).any(axis=1)]
+    if train_data_clean.shape[0] < 4:
+        return np.nan
+    # 重新拆分成训练特征和因变量
+    train_y_clean = train_data_clean[:, 0]
+    train_x1_clean = train_data_clean[:, 1]
+    train_x2_clean = train_data_clean[:, 2]
+    X_train = np.column_stack([
+        np.ones(train_data_clean.shape[0]),  # α
+        train_x1_clean,  # β
+        train_x2_clean  # γ
+    ])
+    coefs, _, _, _ = np.linalg.lstsq(X_train, train_y_clean, rcond=None)
+    alpha, beta, gamma = coefs
+    y_train_pred = X_train @ coefs
+    train_residuals = train_y_clean - y_train_pred
+    sigma = np.std(train_residuals, ddof=0)  # 总体标准差
+    if sigma == 0:
+        return np.nan
+    pred_x1 = y[1]  # CFO_int_t
+    pred_x2 = x[0]  # Δrcv_{t+1}
+    y_pred = alpha + beta * pred_x1 + gamma * pred_x2
+    residual = y[0] - y_pred
+    # 最终因子
+    o_factor = residual / sigma
+    return o_factor
+
+作者说明：第三段代码是 AI 写的，主要告知输入输出后生成第一版；第一版没有去掉 nan 值的操作，于是让 AI 改了第二版，注释都在代码里。
+
+【原文因子逻辑】
+与 SUE 或 SUR 类似（作者自述"笔者也不知道什么是 SUE，什么是 SUR"），对经营现金流相关指标进行预判，判断真实值与预测值之间的预测外现金流的方向和水平。
+因子公式以截图给出（"计算公式这里，笔者直接截图了"），未提供文字版。
+
+【原文因子评价】
+作者自述："对于基本面因子，这个因子评价系统感觉并不是特别合适了。但是，为了和之前的因子进行对比（凑字数），笔者还是按照同样的方式进行评价。"
+评价分四节，均为截图，正文未给数值：
+1. IC 分析：多张 IC 图；"IC 不高，对于基本面因子来说是一种常态，毕竟笔者计算的是 21 日滚动 IC"；"回测区间里每一年的 IC 都是正数"
+2. 回归分析：截图，无文字结论
+3. 换手率分析："换手率不高，21 天调仓，每次调仓的换手率没超过 35%"
+4. 收益分析：分层回测净值图；"近乎完美的单调性"；"除了最后因子值最小的两组净值接近外，其他的时间都比较完美"；"因子值最大的两组和其他组之间基本上没有什么相交的情况"

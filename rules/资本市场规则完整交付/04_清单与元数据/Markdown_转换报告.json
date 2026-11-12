@@ -1,0 +1,2140 @@
+{
+  "generated_at": "2026-11-09T17:00:22",
+  "total": 91,
+  "with_text": 91,
+  "status": {
+    "ok": 91
+  },
+  "by_subject": {
+    "公募基金": 20,
+    "机构": 16,
+    "私募": 10,
+    "散户": 13,
+    "游资": 11,
+    "股东": 12,
+    "ETF": 9
+  },
+  "items": [
+    {
+      "subject": "公募基金",
+      "name": "证券基金经营机构董事、监事、高级管理人员及从业人员监督管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 12683,
+      "chapters": 7,
+      "articles": 58,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "公募基金/证券基金经营机构董事、监事、高级管理人员及从业人员监督管理办法.md",
+      "candidates": 4,
+      "attempts": [
+        {
+          "file": "公募基金规则/部门规章/证券基金经营机构董事、监事、高级管理人员及从业人员监督管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 11634,
+          "cn_ratio": 0.875
+        }
+      ]
+    },
+    {
+      "subject": "公募基金",
+      "name": "证券基金经营机构信息技术管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 11022,
+      "chapters": 7,
+      "articles": 64,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "公募基金/证券基金经营机构信息技术管理办法.md",
+      "candidates": 4,
+      "attempts": [
+        {
+          "file": "公募基金规则/部门规章/证券基金经营机构信息技术管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 10039,
+          "cn_ratio": 0.884
+        }
+      ]
+    },
+    {
+      "subject": "公募基金",
+      "name": "证券公司和证券投资基金管理公司境外设立、收购、参股经营机构管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 2287,
+      "chapters": 0,
+      "articles": 16,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "公募基金/证券公司和证券投资基金管理公司境外设立、收购、参股经营机构管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "公募基金规则/部门规章/证券公司和证券投资基金管理公司境外设立、收购、参股经营机构管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 1552,
+          "cn_ratio": 0.787
+        }
+      ]
+    },
+    {
+      "subject": "公募基金",
+      "name": "证券投资基金评价业务管理暂行办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 5446,
+      "chapters": 5,
+      "articles": 33,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "公募基金/证券投资基金评价业务管理暂行办法.md",
+      "candidates": 4,
+      "attempts": [
+        {
+          "file": "公募基金规则/部门规章/证券投资基金评价业务管理暂行办法_文字版.docx",
+          "kind": "docx",
+          "chars": 4602,
+          "cn_ratio": 0.855
+        }
+      ]
+    },
+    {
+      "subject": "公募基金",
+      "name": "公开募集证券投资基金销售机构监督管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 13762,
+      "chapters": 8,
+      "articles": 81,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "公募基金/公开募集证券投资基金销售机构监督管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "公募基金规则/部门规章/公开募集证券投资基金销售机构监督管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 12795,
+          "cn_ratio": 0.88
+        }
+      ]
+    },
+    {
+      "subject": "公募基金",
+      "name": "证券投资基金托管业务管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 8530,
+      "chapters": 6,
+      "articles": 43,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "公募基金/证券投资基金托管业务管理办法.md",
+      "candidates": 4,
+      "attempts": [
+        {
+          "file": "公募基金规则/部门规章/证券投资基金托管业务管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 7656,
+          "cn_ratio": 0.869
+        }
+      ]
+    },
+    {
+      "subject": "公募基金",
+      "name": "证券公司和证券投资基金管理公司合规管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 8153,
+      "chapters": 5,
+      "articles": 40,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "公募基金/证券公司和证券投资基金管理公司合规管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "公募基金规则/部门规章/证券公司和证券投资基金管理公司合规管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 7321,
+          "cn_ratio": 0.882
+        }
+      ]
+    },
+    {
+      "subject": "公募基金",
+      "name": "公开募集证券投资基金信息披露管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 8031,
+      "chapters": 8,
+      "articles": 42,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "公募基金/公开募集证券投资基金信息披露管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "公募基金规则/部门规章/公开募集证券投资基金信息披露管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 7228,
+          "cn_ratio": 0.861
+        }
+      ]
+    },
+    {
+      "subject": "公募基金",
+      "name": "证券投资基金管理公司管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 12686,
+      "chapters": 7,
+      "articles": 81,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "公募基金/证券投资基金管理公司管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "公募基金规则/部门规章/证券投资基金管理公司管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 11748,
+          "cn_ratio": 0.856
+        }
+      ]
+    },
+    {
+      "subject": "公募基金",
+      "name": "货币市场基金监督管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 7572,
+      "chapters": 7,
+      "articles": 43,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "公募基金/货币市场基金监督管理办法.md",
+      "candidates": 4,
+      "attempts": [
+        {
+          "file": "公募基金规则/部门规章/货币市场基金监督管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 6704,
+          "cn_ratio": 0.867
+        }
+      ]
+    },
+    {
+      "subject": "公募基金",
+      "name": "公开募集证券投资基金运作管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 10799,
+      "chapters": 1,
+      "articles": 59,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "公募基金/公开募集证券投资基金运作管理办法.md",
+      "candidates": 4,
+      "attempts": [
+        {
+          "file": "公募基金规则/部门规章/公开募集证券投资基金运作管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 9859,
+          "cn_ratio": 0.88
+        }
+      ]
+    },
+    {
+      "subject": "公募基金",
+      "name": "公开募集证券投资基金风险准备金监督管理暂行办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 3564,
+      "chapters": 5,
+      "articles": 22,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "公募基金/公开募集证券投资基金风险准备金监督管理暂行办法.md",
+      "candidates": 4,
+      "attempts": [
+        {
+          "file": "公募基金规则/部门规章/公开募集证券投资基金风险准备金监督管理暂行办法_文字版.docx",
+          "kind": "docx",
+          "chars": 2722,
+          "cn_ratio": 0.873
+        }
+      ]
+    },
+    {
+      "subject": "公募基金",
+      "name": "证券投资基金行业高级管理人员任职管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 7288,
+      "chapters": 6,
+      "articles": 48,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "公募基金/证券投资基金行业高级管理人员任职管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "公募基金规则/部门规章/证券投资基金行业高级管理人员任职管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 6413,
+          "cn_ratio": 0.856
+        }
+      ]
+    },
+    {
+      "subject": "公募基金",
+      "name": "中华人民共和国证券投资基金法（2015年修正）",
+      "status": "ok",
+      "note": "",
+      "from": "txt",
+      "chars": 23753,
+      "chapters": 30,
+      "articles": 154,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "公募基金/中华人民共和国证券投资基金法（2015年修正）.md",
+      "candidates": 1,
+      "attempts": [
+        {
+          "file": "公募基金规则/上位法/中华人民共和国证券投资基金法（2015年修正）_正文.txt",
+          "kind": "txt",
+          "chars": 21772,
+          "cn_ratio": 0.879
+        }
+      ]
+    },
+    {
+      "subject": "公募基金",
+      "name": "公开募集证券投资基金管理人监督管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "pdf",
+      "chars": 20404,
+      "chapters": 16,
+      "articles": 78,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "公募基金/公开募集证券投资基金管理人监督管理办法.md",
+      "candidates": 5,
+      "attempts": [
+        {
+          "file": "公募基金规则/部门规章_补充/公开募集证券投资基金管理人监督管理办法_正文.txt",
+          "kind": "txt",
+          "chars": 2526,
+          "cn_ratio": 0.124,
+          "note": "法规库 Vue 模板页（无条文）"
+        },
+        {
+          "file": "公募基金规则/部门规章_补充/公开募集证券投资基金管理人监督管理办法_参考页1_正文.txt",
+          "kind": "txt",
+          "chars": 797,
+          "cn_ratio": 0.645
+        },
+        {
+          "file": "公募基金规则/部门规章_补充/公开募集证券投资基金管理人监督管理办法_参考页2_正文.txt",
+          "kind": "txt",
+          "chars": 938,
+          "cn_ratio": 0.649
+        },
+        {
+          "file": "公募基金规则/部门规章_补充/公开募集证券投资基金管理人监督管理办法_附件1.pdf",
+          "kind": "pdf",
+          "chars": 18304,
+          "cn_ratio": 0.856
+        }
+      ]
+    },
+    {
+      "subject": "公募基金",
+      "name": "公开募集证券投资基金业绩比较基准指引",
+      "status": "ok",
+      "note": "",
+      "from": "pdf",
+      "chars": 9025,
+      "chapters": 1,
+      "articles": 0,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "公募基金/公开募集证券投资基金业绩比较基准指引.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "公募基金规则/规范性文件/公开募集证券投资基金业绩比较基准指引_正文.txt",
+          "kind": "txt",
+          "chars": 2529,
+          "cn_ratio": 0.123,
+          "note": "法规库 Vue 模板页（无条文）"
+        },
+        {
+          "file": "公募基金规则/规范性文件/公开募集证券投资基金业绩比较基准指引_原文.pdf",
+          "kind": "pdf",
+          "chars": 6335,
+          "cn_ratio": 0.613
+        }
+      ]
+    },
+    {
+      "subject": "公募基金",
+      "name": "公开募集证券投资基金销售费用管理规定",
+      "status": "ok",
+      "note": "",
+      "from": "pdf",
+      "chars": 5865,
+      "chapters": 0,
+      "articles": 0,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "公募基金/公开募集证券投资基金销售费用管理规定.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "公募基金规则/规范性文件/公开募集证券投资基金销售费用管理规定_正文.txt",
+          "kind": "txt",
+          "chars": 996,
+          "cn_ratio": 0.739
+        },
+        {
+          "file": "公募基金规则/规范性文件/公开募集证券投资基金销售费用管理规定_原文.pdf",
+          "kind": "pdf",
+          "chars": 4613,
+          "cn_ratio": 0.786
+        }
+      ]
+    },
+    {
+      "subject": "公募基金",
+      "name": "推动公募基金高质量发展行动方案",
+      "status": "ok",
+      "note": "",
+      "from": "txt",
+      "chars": 6680,
+      "chapters": 0,
+      "articles": 0,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "公募基金/推动公募基金高质量发展行动方案.md",
+      "candidates": 1,
+      "attempts": [
+        {
+          "file": "公募基金规则/政策文件/推动公募基金高质量发展行动方案_正文.txt",
+          "kind": "txt",
+          "chars": 6038,
+          "cn_ratio": 0.78
+        }
+      ]
+    },
+    {
+      "subject": "公募基金",
+      "name": "公开募集证券投资基金业绩比较基准操作细则",
+      "status": "ok",
+      "note": "",
+      "from": "txt",
+      "chars": 8512,
+      "chapters": 0,
+      "articles": 0,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "公募基金/公开募集证券投资基金业绩比较基准操作细则.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "公募基金规则/自律规则/公开募集证券投资基金业绩比较基准操作细则_正文.txt",
+          "kind": "txt",
+          "chars": 7484,
+          "cn_ratio": 0.697
+        },
+        {
+          "file": "公募基金规则/自律规则/公开募集证券投资基金业绩比较基准操作细则_原文.pdf",
+          "kind": "pdf",
+          "chars": 4859,
+          "cn_ratio": 0.866
+        }
+      ]
+    },
+    {
+      "subject": "公募基金",
+      "name": "基金管理公司绩效考核管理指引",
+      "status": "ok",
+      "note": "",
+      "from": "txt",
+      "chars": 8658,
+      "chapters": 0,
+      "articles": 0,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "公募基金/基金管理公司绩效考核管理指引.md",
+      "candidates": 8,
+      "attempts": [
+        {
+          "file": "公募基金规则/自律规则/基金管理公司绩效考核管理指引_正文.txt",
+          "kind": "txt",
+          "chars": 7416,
+          "cn_ratio": 0.693
+        },
+        {
+          "file": "公募基金规则/自律规则/基金管理公司绩效考核管理指引_参考页1_正文.txt",
+          "kind": "txt",
+          "chars": 5679,
+          "cn_ratio": 0.837
+        },
+        {
+          "file": "公募基金规则/自律规则/基金管理公司绩效考核管理指引_原文.pdf",
+          "kind": "pdf",
+          "chars": 5179,
+          "cn_ratio": 0.874
+        },
+        {
+          "file": "公募基金规则/自律规则/基金管理公司绩效考核管理指引_附件2.pdf",
+          "kind": "pdf",
+          "chars": 1242,
+          "cn_ratio": 0.868
+        }
+      ]
+    },
+    {
+      "subject": "机构",
+      "name": "证券基金经营机构董事、监事、高级管理人员及从业人员监督管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 12675,
+      "chapters": 7,
+      "articles": 58,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "机构/证券基金经营机构董事、监事、高级管理人员及从业人员监督管理办法.md",
+      "candidates": 4,
+      "attempts": [
+        {
+          "file": "公募基金规则/部门规章/证券基金经营机构董事、监事、高级管理人员及从业人员监督管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 11634,
+          "cn_ratio": 0.875
+        }
+      ]
+    },
+    {
+      "subject": "私募",
+      "name": "非上市公众公司信息披露管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 11207,
+      "chapters": 7,
+      "articles": 63,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "私募/非上市公众公司信息披露管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/非上市公众公司信息披露管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 10333,
+          "cn_ratio": 0.864
+        }
+      ]
+    },
+    {
+      "subject": "私募",
+      "name": "非上市公众公司监督管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 10519,
+      "chapters": 8,
+      "articles": 78,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "私募/非上市公众公司监督管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/非上市公众公司监督管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 9592,
+          "cn_ratio": 0.863
+        }
+      ]
+    },
+    {
+      "subject": "散户",
+      "name": "证券期货违法行为行政处罚办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 6031,
+      "chapters": 0,
+      "articles": 41,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "散户/证券期货违法行为行政处罚办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/证券期货违法行为行政处罚办法_文字版.docx",
+          "kind": "docx",
+          "chars": 5265,
+          "cn_ratio": 0.847
+        }
+      ]
+    },
+    {
+      "subject": "游资",
+      "name": "证券期货违法行为行政处罚办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 6031,
+      "chapters": 0,
+      "articles": 41,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "游资/证券期货违法行为行政处罚办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/证券期货违法行为行政处罚办法_文字版.docx",
+          "kind": "docx",
+          "chars": 5265,
+          "cn_ratio": 0.847
+        }
+      ]
+    },
+    {
+      "subject": "散户",
+      "name": "证券市场禁入规定",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 5147,
+      "chapters": 0,
+      "articles": 17,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "散户/证券市场禁入规定.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/证券市场禁入规定_文字版.docx",
+          "kind": "docx",
+          "chars": 4504,
+          "cn_ratio": 0.862
+        }
+      ]
+    },
+    {
+      "subject": "游资",
+      "name": "证券市场禁入规定",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 5147,
+      "chapters": 0,
+      "articles": 17,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "游资/证券市场禁入规定.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/证券市场禁入规定_文字版.docx",
+          "kind": "docx",
+          "chars": 4504,
+          "cn_ratio": 0.862
+        }
+      ]
+    },
+    {
+      "subject": "股东",
+      "name": "优先股试点管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 9876,
+      "chapters": 9,
+      "articles": 70,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "股东/优先股试点管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/优先股试点管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 8978,
+          "cn_ratio": 0.871
+        }
+      ]
+    },
+    {
+      "subject": "散户",
+      "name": "客户交易结算资金管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 6253,
+      "chapters": 6,
+      "articles": 41,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "散户/客户交易结算资金管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/客户交易结算资金管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 5486,
+          "cn_ratio": 0.861
+        }
+      ]
+    },
+    {
+      "subject": "股东",
+      "name": "上市公司信息披露管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 11431,
+      "chapters": 6,
+      "articles": 65,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "股东/上市公司信息披露管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/上市公司信息披露管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 10566,
+          "cn_ratio": 0.872
+        }
+      ]
+    },
+    {
+      "subject": "机构",
+      "name": "证券公司股权管理规定",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 8410,
+      "chapters": 5,
+      "articles": 45,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "机构/证券公司股权管理规定.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/证券公司股权管理规定_文字版.docx",
+          "kind": "docx",
+          "chars": 7634,
+          "cn_ratio": 0.863
+        }
+      ]
+    },
+    {
+      "subject": "机构",
+      "name": "证券基金经营机构信息技术管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 11014,
+      "chapters": 7,
+      "articles": 64,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "机构/证券基金经营机构信息技术管理办法.md",
+      "candidates": 4,
+      "attempts": [
+        {
+          "file": "公募基金规则/部门规章/证券基金经营机构信息技术管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 10039,
+          "cn_ratio": 0.884
+        }
+      ]
+    },
+    {
+      "subject": "机构",
+      "name": "合格境外机构投资者和人民币合格境外机构投资者境内证券期货投资管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 4533,
+      "chapters": 0,
+      "articles": 29,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "机构/合格境外机构投资者和人民币合格境外机构投资者境内证券期货投资管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/合格境外机构投资者和人民币合格境外机构投资者境内证券期货投资管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 3738,
+          "cn_ratio": 0.843
+        }
+      ]
+    },
+    {
+      "subject": "机构",
+      "name": "转融通业务监督管理试行办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 6455,
+      "chapters": 7,
+      "articles": 54,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "机构/转融通业务监督管理试行办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/转融通业务监督管理试行办法_文字版.docx",
+          "kind": "docx",
+          "chars": 5627,
+          "cn_ratio": 0.867
+        }
+      ]
+    },
+    {
+      "subject": "游资",
+      "name": "中国证券监督管理委员会限制证券买卖实施办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 2239,
+      "chapters": 0,
+      "articles": 16,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "游资/中国证券监督管理委员会限制证券买卖实施办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/中国证券监督管理委员会限制证券买卖实施办法_文字版.docx",
+          "kind": "docx",
+          "chars": 1552,
+          "cn_ratio": 0.787
+        }
+      ]
+    },
+    {
+      "subject": "ETF",
+      "name": "证券投资基金评价业务管理暂行办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 5439,
+      "chapters": 5,
+      "articles": 33,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "ETF/证券投资基金评价业务管理暂行办法.md",
+      "candidates": 4,
+      "attempts": [
+        {
+          "file": "公募基金规则/部门规章/证券投资基金评价业务管理暂行办法_文字版.docx",
+          "kind": "docx",
+          "chars": 4602,
+          "cn_ratio": 0.855
+        }
+      ]
+    },
+    {
+      "subject": "散户",
+      "name": "证券期货投资者适当性管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 13697,
+      "chapters": 8,
+      "articles": 81,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "散户/证券期货投资者适当性管理办法.md",
+      "candidates": 1,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/证券期货投资者适当性管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 12795,
+          "cn_ratio": 0.88
+        }
+      ]
+    },
+    {
+      "subject": "ETF",
+      "name": "证券投资基金托管业务管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 8523,
+      "chapters": 6,
+      "articles": 43,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "ETF/证券投资基金托管业务管理办法.md",
+      "candidates": 4,
+      "attempts": [
+        {
+          "file": "公募基金规则/部门规章/证券投资基金托管业务管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 7656,
+          "cn_ratio": 0.869
+        }
+      ]
+    },
+    {
+      "subject": "机构",
+      "name": "证券发行上市保荐业务管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 15627,
+      "chapters": 3,
+      "articles": 83,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "机构/证券发行上市保荐业务管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/证券发行上市保荐业务管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 14690,
+          "cn_ratio": 0.861
+        }
+      ]
+    },
+    {
+      "subject": "游资",
+      "name": "中国证券监督管理委员会冻结、查封实施办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 4348,
+      "chapters": 0,
+      "articles": 28,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "游资/中国证券监督管理委员会冻结、查封实施办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/中国证券监督管理委员会冻结、查封实施办法_文字版.docx",
+          "kind": "docx",
+          "chars": 3594,
+          "cn_ratio": 0.824
+        }
+      ]
+    },
+    {
+      "subject": "私募",
+      "name": "非上市公众公司收购管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 8484,
+      "chapters": 6,
+      "articles": 47,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "私募/非上市公众公司收购管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/非上市公众公司收购管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 7681,
+          "cn_ratio": 0.888
+        }
+      ]
+    },
+    {
+      "subject": "股东",
+      "name": "非上市公众公司收购管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 8484,
+      "chapters": 6,
+      "articles": 47,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "股东/非上市公众公司收购管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/非上市公众公司收购管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 7681,
+          "cn_ratio": 0.888
+        }
+      ]
+    },
+    {
+      "subject": "机构",
+      "name": "外商投资证券公司管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 4447,
+      "chapters": 0,
+      "articles": 26,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "机构/外商投资证券公司管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/外商投资证券公司管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 3754,
+          "cn_ratio": 0.848
+        }
+      ]
+    },
+    {
+      "subject": "股东",
+      "name": "上市公司重大资产重组管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 16601,
+      "chapters": 8,
+      "articles": 62,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "股东/上市公司重大资产重组管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/上市公司重大资产重组管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 15734,
+          "cn_ratio": 0.887
+        }
+      ]
+    },
+    {
+      "subject": "机构",
+      "name": "证券公司风险控制指标管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 6331,
+      "chapters": 6,
+      "articles": 37,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "机构/证券公司风险控制指标管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/证券公司风险控制指标管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 5570,
+          "cn_ratio": 0.859
+        }
+      ]
+    },
+    {
+      "subject": "散户",
+      "name": "证券期货市场诚信监督管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 9188,
+      "chapters": 6,
+      "articles": 50,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "散户/证券期货市场诚信监督管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/证券期货市场诚信监督管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 8368,
+          "cn_ratio": 0.856
+        }
+      ]
+    },
+    {
+      "subject": "游资",
+      "name": "证券期货市场诚信监督管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 9188,
+      "chapters": 6,
+      "articles": 50,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "游资/证券期货市场诚信监督管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/证券期货市场诚信监督管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 8368,
+          "cn_ratio": 0.856
+        }
+      ]
+    },
+    {
+      "subject": "私募",
+      "name": "非上市公众公司重大资产重组管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 7829,
+      "chapters": 5,
+      "articles": 41,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "私募/非上市公众公司重大资产重组管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/非上市公众公司重大资产重组管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 7041,
+          "cn_ratio": 0.882
+        }
+      ]
+    },
+    {
+      "subject": "股东",
+      "name": "上市公司收购管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 22166,
+      "chapters": 10,
+      "articles": 90,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "股东/上市公司收购管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/上市公司收购管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 21196,
+          "cn_ratio": 0.878
+        }
+      ]
+    },
+    {
+      "subject": "股东",
+      "name": "上市公司证券发行管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 10361,
+      "chapters": 7,
+      "articles": 76,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "股东/上市公司证券发行管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/上市公司证券发行管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 9376,
+          "cn_ratio": 0.858
+        }
+      ]
+    },
+    {
+      "subject": "游资",
+      "name": "关于《期货交易管理条例》第七十条第五项“其他操纵期货交易价格行为”的规定",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 1218,
+      "chapters": 0,
+      "articles": 8,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "游资/关于《期货交易管理条例》第七十条第五项“其他操纵期货交易价格行为”的规定.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/关于《期货交易管理条例》第七十条第五项“其他操纵期货交易价格行为”的规定_文字版.docx",
+          "kind": "docx",
+          "chars": 502,
+          "cn_ratio": 0.811
+        },
+        {
+          "file": "资本市场规则全集/_共用_部门规章/关于《期货交易管理条例》第七十条第五项“其他操纵期货交易价格行为”的规定_图片版.pdf",
+          "kind": "pdf",
+          "chars": 548,
+          "cn_ratio": 0.779
+        }
+      ]
+    },
+    {
+      "subject": "机构",
+      "name": "境外证券期货交易所驻华代表机构管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 3786,
+      "chapters": 0,
+      "articles": 0,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "机构/境外证券期货交易所驻华代表机构管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/境外证券期货交易所驻华代表机构管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 3170,
+          "cn_ratio": 0.875
+        }
+      ]
+    },
+    {
+      "subject": "私募",
+      "name": "证券期货经营机构私募资产管理业务管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 18363,
+      "chapters": 6,
+      "articles": 84,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "私募/证券期货经营机构私募资产管理业务管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/证券期货经营机构私募资产管理业务管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 17386,
+          "cn_ratio": 0.879
+        }
+      ]
+    },
+    {
+      "subject": "游资",
+      "name": "证券登记结算管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 12327,
+      "chapters": 0,
+      "articles": 81,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "游资/证券登记结算管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/证券登记结算管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 11411,
+          "cn_ratio": 0.879
+        }
+      ]
+    },
+    {
+      "subject": "机构",
+      "name": "证券登记结算管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 12327,
+      "chapters": 0,
+      "articles": 81,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "机构/证券登记结算管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/证券登记结算管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 11411,
+          "cn_ratio": 0.879
+        }
+      ]
+    },
+    {
+      "subject": "ETF",
+      "name": "证券登记结算管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 12328,
+      "chapters": 0,
+      "articles": 81,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "ETF/证券登记结算管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/证券登记结算管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 11411,
+          "cn_ratio": 0.879
+        }
+      ]
+    },
+    {
+      "subject": "股东",
+      "name": "证券登记结算管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 12327,
+      "chapters": 0,
+      "articles": 81,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "股东/证券登记结算管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/证券登记结算管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 11411,
+          "cn_ratio": 0.879
+        }
+      ]
+    },
+    {
+      "subject": "股东",
+      "name": "上市公司股权激励管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 12213,
+      "chapters": 0,
+      "articles": 75,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "股东/上市公司股权激励管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/上市公司股权激励管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 11324,
+          "cn_ratio": 0.869
+        }
+      ]
+    },
+    {
+      "subject": "机构",
+      "name": "证券发行与承销管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "pdf",
+      "chars": 10990,
+      "chapters": 6,
+      "articles": 43,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "机构/证券发行与承销管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/证券发行与承销管理办法_文字版.docx",
+          "kind": "error",
+          "chars": 79,
+          "cn_ratio": 0.0,
+          "note": "正文过短"
+        },
+        {
+          "file": "资本市场规则全集/_共用_部门规章/证券发行与承销管理办法_图片版.pdf",
+          "kind": "pdf",
+          "chars": 9720,
+          "cn_ratio": 0.837
+        }
+      ]
+    },
+    {
+      "subject": "散户",
+      "name": "存托凭证发行与交易管理办法（试行）",
+      "status": "ok",
+      "note": "",
+      "from": "pdf",
+      "chars": 12342,
+      "chapters": 8,
+      "articles": 61,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "散户/存托凭证发行与交易管理办法（试行）.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/存托凭证发行与交易管理办法（试行）_文字版.docx",
+          "kind": "error",
+          "chars": 79,
+          "cn_ratio": 0.0,
+          "note": "正文过短"
+        },
+        {
+          "file": "资本市场规则全集/_共用_部门规章/存托凭证发行与交易管理办法（试行）_图片版.pdf",
+          "kind": "pdf",
+          "chars": 10850,
+          "cn_ratio": 0.845
+        }
+      ]
+    },
+    {
+      "subject": "私募",
+      "name": "区域性股权市场监督管理试行办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 8028,
+      "chapters": 6,
+      "articles": 53,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "私募/区域性股权市场监督管理试行办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/区域性股权市场监督管理试行办法_文字版.docx",
+          "kind": "docx",
+          "chars": 7197,
+          "cn_ratio": 0.867
+        }
+      ]
+    },
+    {
+      "subject": "散户",
+      "name": "内地与香港股票市场交易互联互通机制若干规定",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 4521,
+      "chapters": 0,
+      "articles": 19,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "散户/内地与香港股票市场交易互联互通机制若干规定.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/内地与香港股票市场交易互联互通机制若干规定_文字版.docx",
+          "kind": "docx",
+          "chars": 3815,
+          "cn_ratio": 0.893
+        }
+      ]
+    },
+    {
+      "subject": "机构",
+      "name": "内地与香港股票市场交易互联互通机制若干规定",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 4521,
+      "chapters": 0,
+      "articles": 19,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "机构/内地与香港股票市场交易互联互通机制若干规定.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/内地与香港股票市场交易互联互通机制若干规定_文字版.docx",
+          "kind": "docx",
+          "chars": 3815,
+          "cn_ratio": 0.893
+        }
+      ]
+    },
+    {
+      "subject": "散户",
+      "name": "证券投资者保护基金管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 4127,
+      "chapters": 6,
+      "articles": 34,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "散户/证券投资者保护基金管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/证券投资者保护基金管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 3382,
+          "cn_ratio": 0.844
+        }
+      ]
+    },
+    {
+      "subject": "ETF",
+      "name": "货币市场基金监督管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 7565,
+      "chapters": 7,
+      "articles": 43,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "ETF/货币市场基金监督管理办法.md",
+      "candidates": 4,
+      "attempts": [
+        {
+          "file": "公募基金规则/部门规章/货币市场基金监督管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 6704,
+          "cn_ratio": 0.867
+        }
+      ]
+    },
+    {
+      "subject": "机构",
+      "name": "境外交易者和境外经纪机构从事境内特定品种期货交易管理暂行办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 5423,
+      "chapters": 0,
+      "articles": 35,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "机构/境外交易者和境外经纪机构从事境内特定品种期货交易管理暂行办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/境外交易者和境外经纪机构从事境内特定品种期货交易管理暂行办法_文字版.docx",
+          "kind": "docx",
+          "chars": 4622,
+          "cn_ratio": 0.886
+        }
+      ]
+    },
+    {
+      "subject": "散户",
+      "name": "证券公司融资融券业务管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 8840,
+      "chapters": 7,
+      "articles": 53,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "散户/证券公司融资融券业务管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/证券公司融资融券业务管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 8006,
+          "cn_ratio": 0.875
+        }
+      ]
+    },
+    {
+      "subject": "机构",
+      "name": "证券公司融资融券业务管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 8840,
+      "chapters": 7,
+      "articles": 53,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "机构/证券公司融资融券业务管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/证券公司融资融券业务管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 8006,
+          "cn_ratio": 0.875
+        }
+      ]
+    },
+    {
+      "subject": "散户",
+      "name": "股票期权交易试点管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 7475,
+      "chapters": 0,
+      "articles": 30,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "散户/股票期权交易试点管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/股票期权交易试点管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 6761,
+          "cn_ratio": 0.894
+        }
+      ]
+    },
+    {
+      "subject": "ETF",
+      "name": "股票期权交易试点管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 7476,
+      "chapters": 0,
+      "articles": 30,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "ETF/股票期权交易试点管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/股票期权交易试点管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 6761,
+          "cn_ratio": 0.894
+        }
+      ]
+    },
+    {
+      "subject": "游资",
+      "name": "中国证监会委托上海、深圳证券交易所实施案件调查试点工作规定",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 1849,
+      "chapters": 0,
+      "articles": 9,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "游资/中国证监会委托上海、深圳证券交易所实施案件调查试点工作规定.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/中国证监会委托上海、深圳证券交易所实施案件调查试点工作规定_文字版.docx",
+          "kind": "docx",
+          "chars": 1157,
+          "cn_ratio": 0.85
+        }
+      ]
+    },
+    {
+      "subject": "私募",
+      "name": "私募投资基金监督管理暂行办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 6183,
+      "chapters": 10,
+      "articles": 41,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "私募/私募投资基金监督管理暂行办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/私募投资基金监督管理暂行办法_文字版.docx",
+          "kind": "docx",
+          "chars": 5392,
+          "cn_ratio": 0.865
+        }
+      ]
+    },
+    {
+      "subject": "ETF",
+      "name": "公开募集证券投资基金运作管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 10792,
+      "chapters": 1,
+      "articles": 59,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "ETF/公开募集证券投资基金运作管理办法.md",
+      "candidates": 4,
+      "attempts": [
+        {
+          "file": "公募基金规则/部门规章/公开募集证券投资基金运作管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 9859,
+          "cn_ratio": 0.88
+        }
+      ]
+    },
+    {
+      "subject": "ETF",
+      "name": "公开募集证券投资基金风险准备金监督管理暂行办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 3557,
+      "chapters": 5,
+      "articles": 22,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "ETF/公开募集证券投资基金风险准备金监督管理暂行办法.md",
+      "candidates": 4,
+      "attempts": [
+        {
+          "file": "公募基金规则/部门规章/公开募集证券投资基金风险准备金监督管理暂行办法_文字版.docx",
+          "kind": "docx",
+          "chars": 2722,
+          "cn_ratio": 0.873
+        }
+      ]
+    },
+    {
+      "subject": "散户",
+      "name": "证券期货业反洗钱工作实施办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 3299,
+      "chapters": 4,
+      "articles": 18,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "散户/证券期货业反洗钱工作实施办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/证券期货业反洗钱工作实施办法_文字版.docx",
+          "kind": "docx",
+          "chars": 2619,
+          "cn_ratio": 0.857
+        }
+      ]
+    },
+    {
+      "subject": "股东",
+      "name": "上市公司并购重组财务顾问业务管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 10636,
+      "chapters": 5,
+      "articles": 45,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "股东/上市公司并购重组财务顾问业务管理办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/上市公司并购重组财务顾问业务管理办法_文字版.docx",
+          "kind": "docx",
+          "chars": 9785,
+          "cn_ratio": 0.868
+        }
+      ]
+    },
+    {
+      "subject": "机构",
+      "name": "合格境内机构投资者境外证券投资管理试行办法",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 5783,
+      "chapters": 4,
+      "articles": 47,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "机构/合格境内机构投资者境外证券投资管理试行办法.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/_共用_部门规章/合格境内机构投资者境外证券投资管理试行办法_文字版.docx",
+          "kind": "docx",
+          "chars": 4960,
+          "cn_ratio": 0.845
+        }
+      ]
+    },
+    {
+      "subject": "散户",
+      "name": "国务院办公厅关于进一步加强资本市场中小投资者合法权益保护工作的意见",
+      "status": "ok",
+      "note": "",
+      "from": "txt",
+      "chars": 4923,
+      "chapters": 0,
+      "articles": 0,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "散户/国务院办公厅关于进一步加强资本市场中小投资者合法权益保护工作的意见.md",
+      "candidates": 1,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/散户/国务院办公厅关于进一步加强资本市场中小投资者合法权益保护工作的意见_正文.txt",
+          "kind": "txt",
+          "chars": 4288,
+          "cn_ratio": 0.904
+        }
+      ]
+    },
+    {
+      "subject": "游资",
+      "name": "证券市场程序化交易管理规定（试行）发布通知",
+      "status": "ok",
+      "note": "",
+      "from": "txt",
+      "chars": 2067,
+      "chapters": 0,
+      "articles": 0,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "游资/证券市场程序化交易管理规定（试行）发布通知.md",
+      "candidates": 1,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/游资/证券市场程序化交易管理规定（试行）发布通知_正文.txt",
+          "kind": "txt",
+          "chars": 1453,
+          "cn_ratio": 0.765
+        }
+      ]
+    },
+    {
+      "subject": "散户",
+      "name": "证券市场程序化交易管理规定（试行）发布通知",
+      "status": "ok",
+      "note": "",
+      "from": "txt",
+      "chars": 2067,
+      "chapters": 0,
+      "articles": 0,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "散户/证券市场程序化交易管理规定（试行）发布通知.md",
+      "candidates": 1,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/游资/证券市场程序化交易管理规定（试行）发布通知_正文.txt",
+          "kind": "txt",
+          "chars": 1453,
+          "cn_ratio": 0.765
+        }
+      ]
+    },
+    {
+      "subject": "游资",
+      "name": "上海证券交易所程序化交易管理实施细则",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 8883,
+      "chapters": 8,
+      "articles": 48,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "游资/上海证券交易所程序化交易管理实施细则.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/游资/上海证券交易所程序化交易管理实施细则_文字版.docx",
+          "kind": "docx",
+          "chars": 7887,
+          "cn_ratio": 0.88
+        }
+      ]
+    },
+    {
+      "subject": "游资",
+      "name": "上海证券交易所程序化交易管理实施细则（上交所详情页）",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 8886,
+      "chapters": 8,
+      "articles": 48,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "游资/上海证券交易所程序化交易管理实施细则（上交所详情页）.md",
+      "candidates": 3,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/游资/上海证券交易所程序化交易管理实施细则（上交所详情页）_附件1.docx",
+          "kind": "docx",
+          "chars": 7887,
+          "cn_ratio": 0.88
+        }
+      ]
+    },
+    {
+      "subject": "机构",
+      "name": "首次公开发行证券网下投资者管理规则等三项自律规则通知",
+      "status": "ok",
+      "note": "",
+      "from": "pdf",
+      "chars": 27505,
+      "chapters": 6,
+      "articles": 72,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "机构/首次公开发行证券网下投资者管理规则等三项自律规则通知.md",
+      "candidates": 4,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/机构/首次公开发行证券网下投资者管理规则等三项自律规则通知_正文.txt",
+          "kind": "txt",
+          "chars": 2301,
+          "cn_ratio": 0.782
+        },
+        {
+          "file": "资本市场规则全集/机构/首次公开发行证券网下投资者管理规则等三项自律规则通知_附件1.pdf",
+          "kind": "pdf",
+          "chars": 25093,
+          "cn_ratio": 0.846
+        },
+        {
+          "file": "资本市场规则全集/机构/首次公开发行证券网下投资者管理规则等三项自律规则通知_附件2.pdf",
+          "kind": "pdf",
+          "chars": 7841,
+          "cn_ratio": 0.869
+        },
+        {
+          "file": "资本市场规则全集/机构/首次公开发行证券网下投资者管理规则等三项自律规则通知_附件3.pdf",
+          "kind": "pdf",
+          "chars": 3243,
+          "cn_ratio": 0.85
+        }
+      ]
+    },
+    {
+      "subject": "私募",
+      "name": "私募投资基金监督管理条例",
+      "status": "ok",
+      "note": "",
+      "from": "txt",
+      "chars": 12019,
+      "chapters": 7,
+      "articles": 62,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "私募/私募投资基金监督管理条例.md",
+      "candidates": 1,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/私募/私募投资基金监督管理条例_正文.txt",
+          "kind": "txt",
+          "chars": 10929,
+          "cn_ratio": 0.872
+        }
+      ]
+    },
+    {
+      "subject": "私募",
+      "name": "私募投资基金信息披露监督管理办法",
+      "status": "ok",
+      "note": "",
+      "from": "txt",
+      "chars": 8773,
+      "chapters": 7,
+      "articles": 44,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "私募/私募投资基金信息披露监督管理办法.md",
+      "candidates": 1,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/私募/私募投资基金信息披露监督管理办法_正文.txt",
+          "kind": "txt",
+          "chars": 7707,
+          "cn_ratio": 0.872
+        }
+      ]
+    },
+    {
+      "subject": "私募",
+      "name": "关于发布《私募投资基金登记备案办法》的公告",
+      "status": "ok",
+      "note": "",
+      "from": "pdf",
+      "chars": 24920,
+      "chapters": 6,
+      "articles": 83,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "私募/关于发布《私募投资基金登记备案办法》的公告.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/私募/关于发布《私募投资基金登记备案办法》的公告_正文.txt",
+          "kind": "txt",
+          "chars": 1141,
+          "cn_ratio": 0.677
+        },
+        {
+          "file": "资本市场规则全集/私募/关于发布《私募投资基金登记备案办法》的公告_附件1.pdf",
+          "kind": "pdf",
+          "chars": 22727,
+          "cn_ratio": 0.847
+        }
+      ]
+    },
+    {
+      "subject": "ETF",
+      "name": "上海证券交易所主动管理交易型开放式证券投资基金业务指引",
+      "status": "ok",
+      "note": "",
+      "from": "docx",
+      "chars": 2564,
+      "chapters": 0,
+      "articles": 15,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "ETF/上海证券交易所主动管理交易型开放式证券投资基金业务指引.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/ETF/上海证券交易所主动管理交易型开放式证券投资基金业务指引_附件1.docx",
+          "kind": "docx",
+          "chars": 1798,
+          "cn_ratio": 0.818
+        }
+      ]
+    },
+    {
+      "subject": "ETF",
+      "name": "深圳证券交易所证券投资基金业务指引第5号——主动管理交易型开放式基金",
+      "status": "ok",
+      "note": "",
+      "from": "pdf",
+      "chars": 2732,
+      "chapters": 0,
+      "articles": 15,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "ETF/深圳证券交易所证券投资基金业务指引第5号——主动管理交易型开放式基金.md",
+      "candidates": 3,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/ETF/深圳证券交易所证券投资基金业务指引第5号——主动管理交易型开放式基金_正文.txt",
+          "kind": "txt",
+          "chars": 391,
+          "cn_ratio": 0.726
+        },
+        {
+          "file": "资本市场规则全集/ETF/深圳证券交易所证券投资基金业务指引第5号——主动管理交易型开放式基金_附件1.pdf",
+          "kind": "pdf",
+          "chars": 1855,
+          "cn_ratio": 0.799
+        },
+        {
+          "file": "资本市场规则全集/ETF/深圳证券交易所证券投资基金业务指引第5号——主动管理交易型开放式基金_附件2.pdf",
+          "kind": "pdf",
+          "chars": 777,
+          "cn_ratio": 0.792
+        }
+      ]
+    },
+    {
+      "subject": "股东",
+      "name": "上市公司股东减持股份管理暂行办法（2025年修订）",
+      "status": "ok",
+      "note": "",
+      "from": "pdf",
+      "chars": 5480,
+      "chapters": 0,
+      "articles": 33,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "股东/上市公司股东减持股份管理暂行办法（2025年修订）.md",
+      "candidates": 2,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/股东/上市公司股东减持股份管理暂行办法（2025年修订）_正文.txt",
+          "kind": "txt",
+          "chars": 2532,
+          "cn_ratio": 0.124,
+          "note": "法规库 Vue 模板页（无条文）"
+        },
+        {
+          "file": "资本市场规则全集/股东/上市公司股东减持股份管理暂行办法（2025年修订）_原文.pdf",
+          "kind": "pdf",
+          "chars": 4426,
+          "cn_ratio": 0.864
+        }
+      ]
+    },
+    {
+      "subject": "股东",
+      "name": "上市公司董事、监事和高级管理人员所持本公司股份及其变动管理规则（2024）",
+      "status": "ok",
+      "note": "",
+      "from": "pdf",
+      "chars": 4492,
+      "chapters": 0,
+      "articles": 18,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "股东/上市公司董事、监事和高级管理人员所持本公司股份及其变动管理规则（2024）.md",
+      "candidates": 1,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/股东/上市公司董事、监事和高级管理人员所持本公司股份及其变动管理规则（2024）.pdf",
+          "kind": "pdf",
+          "chars": 3111,
+          "cn_ratio": 0.854
+        }
+      ]
+    },
+    {
+      "subject": "股东",
+      "name": "上市公司董事和高级管理人员所持本公司股份及其变动管理规则（2025修正）",
+      "status": "ok",
+      "note": "",
+      "from": "pdf",
+      "chars": 3888,
+      "chapters": 0,
+      "articles": 18,
+      "tables": 0,
+      "roundtrip": 1.0,
+      "file": "股东/上市公司董事和高级管理人员所持本公司股份及其变动管理规则（2025修正）.md",
+      "candidates": 1,
+      "attempts": [
+        {
+          "file": "资本市场规则全集/股东/上市公司董事和高级管理人员所持本公司股份及其变动管理规则（2025修正）.pdf",
+          "kind": "pdf",
+          "chars": 3070,
+          "cn_ratio": 0.86
+        }
+      ]
+    }
+  ]
+}

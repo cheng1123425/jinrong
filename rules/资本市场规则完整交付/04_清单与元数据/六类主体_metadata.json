@@ -1,0 +1,2067 @@
+{
+  "generated_at": "2026-11-09T16:44:49",
+  "rules": [
+    {
+      "name": "证券基金经营机构董事、监事、高级管理人员及从业人员监督管理办法",
+      "subjects": [
+        "机构"
+      ],
+      "decree": "证监会令第195号",
+      "date": "2022-02-18",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1942800/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1942800/1942800/files/0a355aec33944b3bad74a78da2aeff46.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1942800/1942800/files/d291666369b54cf799f80011bfdc7b9b.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1942800/1942800/files/0a355aec33944b3bad74a78da2aeff46.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 58281,
+          "file": "_共用_部门规章/证券基金经营机构董事、监事、高级管理人员及从业人员监督管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1942800/1942800/files/d291666369b54cf799f80011bfdc7b9b.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 320058,
+          "file": "_共用_部门规章/证券基金经营机构董事、监事、高级管理人员及从业人员监督管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "非上市公众公司信息披露管理办法",
+      "subjects": [
+        "私募"
+      ],
+      "decree": "证监会令第162号",
+      "date": "2019-12-20",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653987/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653987/1653987/files/a04500ef03f8423da7e2d88bec1a1350.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653987/1653987/files/3afd610265694404826c980bc89c0ddc.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653987/1653987/files/a04500ef03f8423da7e2d88bec1a1350.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 49620,
+          "file": "_共用_部门规章/非上市公众公司信息披露管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653987/1653987/files/3afd610265694404826c980bc89c0ddc.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 226487,
+          "file": "_共用_部门规章/非上市公众公司信息披露管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "非上市公众公司监督管理办法",
+      "subjects": [
+        "私募"
+      ],
+      "decree": "证监会令第85号",
+      "date": "2012-09-28",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653982/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653982/1653982/files/79f958467c9f4a2d900cfe40b702dd71.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653982/1653982/files/03fb8c3656f14acd80c139858f8776c4.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653982/1653982/files/79f958467c9f4a2d900cfe40b702dd71.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 48898,
+          "file": "_共用_部门规章/非上市公众公司监督管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653982/1653982/files/03fb8c3656f14acd80c139858f8776c4.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 211761,
+          "file": "_共用_部门规章/非上市公众公司监督管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "证券期货违法行为行政处罚办法",
+      "subjects": [
+        "散户",
+        "游资"
+      ],
+      "decree": "证监会令第186号",
+      "date": "2021-07-14",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653976/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653976/1653976/files/cb3097364c144d5bbab7b81bac9dd039.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653976/1653976/files/fae18ffb3eb44b6a939176a349d7f035.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653976/1653976/files/cb3097364c144d5bbab7b81bac9dd039.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 42972,
+          "file": "_共用_部门规章/证券期货违法行为行政处罚办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653976/1653976/files/fae18ffb3eb44b6a939176a349d7f035.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 176440,
+          "file": "_共用_部门规章/证券期货违法行为行政处罚办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "证券市场禁入规定",
+      "subjects": [
+        "散户",
+        "游资"
+      ],
+      "decree": "证监会令第33号",
+      "date": "2006-06-07",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653965/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653965/1653965/files/ae7db2d1578145c59bba185337a46380.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653965/1653965/files/c489e92252af4d3d8b877dc85a7cd026.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653965/1653965/files/ae7db2d1578145c59bba185337a46380.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 40430,
+          "file": "_共用_部门规章/证券市场禁入规定_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653965/1653965/files/c489e92252af4d3d8b877dc85a7cd026.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 156877,
+          "file": "_共用_部门规章/证券市场禁入规定_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "优先股试点管理办法",
+      "subjects": [
+        "股东"
+      ],
+      "decree": "证监会令第97号",
+      "date": "2014-03-21",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653961/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653961/1653961/files/dd387a5d6795433dac364eb6d828cfcc.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653961/1653961/files/0d63ad987efe4af8a3fe73b639eea6a5.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653961/1653961/files/dd387a5d6795433dac364eb6d828cfcc.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 47817,
+          "file": "_共用_部门规章/优先股试点管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653961/1653961/files/0d63ad987efe4af8a3fe73b639eea6a5.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 206934,
+          "file": "_共用_部门规章/优先股试点管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "客户交易结算资金管理办法",
+      "subjects": [
+        "散户"
+      ],
+      "decree": "证监会令第3号",
+      "date": "2001-05-16",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653953/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653953/1653953/files/5cc05052a71c470eaffc159f462c1fcd.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653953/1653953/files/fa331f70ea7648d3b230eb7d39b56b4a.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653953/1653953/files/5cc05052a71c470eaffc159f462c1fcd.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 41422,
+          "file": "_共用_部门规章/客户交易结算资金管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653953/1653953/files/fa331f70ea7648d3b230eb7d39b56b4a.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 155363,
+          "file": "_共用_部门规章/客户交易结算资金管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "上市公司信息披露管理办法",
+      "subjects": [
+        "股东"
+      ],
+      "decree": "证监会令第40号",
+      "date": "2007-01-30",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653948/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653948/1653948/files/1fa3ba5763f64437a4fd16182df05c5a.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653948/1653948/files/317acd342b4a437596920f576209385f.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653948/1653948/files/1fa3ba5763f64437a4fd16182df05c5a.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 52929,
+          "file": "_共用_部门规章/上市公司信息披露管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653948/1653948/files/317acd342b4a437596920f576209385f.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 227468,
+          "file": "_共用_部门规章/上市公司信息披露管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "证券公司股权管理规定",
+      "subjects": [
+        "机构"
+      ],
+      "decree": "证监会令第156号",
+      "date": "2019-07-05",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653943/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653943/1653943/files/a476eb69d085439ab09a7aa6089a850c.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653943/1653943/files/1803e3e35fee43568a5931c538c51106.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653943/1653943/files/a476eb69d085439ab09a7aa6089a850c.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 46329,
+          "file": "_共用_部门规章/证券公司股权管理规定_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653943/1653943/files/1803e3e35fee43568a5931c538c51106.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 192951,
+          "file": "_共用_部门规章/证券公司股权管理规定_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "证券基金经营机构信息技术管理办法",
+      "subjects": [
+        "机构"
+      ],
+      "decree": "证监会令第152号",
+      "date": "2018-12-19",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653896/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653896/1653896/files/76df1b5d88424c22927764af6e93b2f5.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653896/1653896/files/f00eeeee7b75483e83c3c83fadf0f4ad.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653896/1653896/files/76df1b5d88424c22927764af6e93b2f5.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 53796,
+          "file": "_共用_部门规章/证券基金经营机构信息技术管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653896/1653896/files/f00eeeee7b75483e83c3c83fadf0f4ad.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 227062,
+          "file": "_共用_部门规章/证券基金经营机构信息技术管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "合格境外机构投资者和人民币合格境外机构投资者境内证券期货投资管理办法",
+      "subjects": [
+        "机构"
+      ],
+      "decree": "证监会令第176号",
+      "date": "2020-09-25",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653823/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653823/1653823/files/87af08cdc8d44c979ce0a372838fc5c8.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653823/1653823/files/2c252e63548548d4ab5d305b55712ce8.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653823/1653823/files/87af08cdc8d44c979ce0a372838fc5c8.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 40095,
+          "file": "_共用_部门规章/合格境外机构投资者和人民币合格境外机构投资者境内证券期货投资管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653823/1653823/files/2c252e63548548d4ab5d305b55712ce8.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 146870,
+          "file": "_共用_部门规章/合格境外机构投资者和人民币合格境外机构投资者境内证券期货投资管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "转融通业务监督管理试行办法",
+      "subjects": [
+        "机构"
+      ],
+      "decree": "证监会令第75号",
+      "date": "2011-10-26",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653885/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653885/1653885/files/b65354ced1a24be9a32e1cc68c099547.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653885/1653885/files/a7650b7dc10740829f071881bdf13bc9.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653885/1653885/files/b65354ced1a24be9a32e1cc68c099547.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 43114,
+          "file": "_共用_部门规章/转融通业务监督管理试行办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653885/1653885/files/a7650b7dc10740829f071881bdf13bc9.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 176514,
+          "file": "_共用_部门规章/转融通业务监督管理试行办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "中国证券监督管理委员会限制证券买卖实施办法",
+      "subjects": [
+        "游资"
+      ],
+      "decree": "证监会令第45号",
+      "date": "2007-05-18",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653880/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653880/1653880/files/3e7958d18b444d3891976707fb1b1c24.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653880/1653880/files/d4658b119ff64a5682163ffe9793e920.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653880/1653880/files/3e7958d18b444d3891976707fb1b1c24.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 36831,
+          "file": "_共用_部门规章/中国证券监督管理委员会限制证券买卖实施办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653880/1653880/files/d4658b119ff64a5682163ffe9793e920.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 106530,
+          "file": "_共用_部门规章/中国证券监督管理委员会限制证券买卖实施办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "证券投资基金评价业务管理暂行办法",
+      "subjects": [
+        "ETF"
+      ],
+      "decree": "证监会令第64号",
+      "date": "2009-11-06",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653866/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653866/1653866/files/a122fce36f8442c4bf8fd3994fc85a14.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653866/1653866/files/b8e27963b62f40e7a34eb5aaec1fafae.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653866/1653866/files/a122fce36f8442c4bf8fd3994fc85a14.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 43175,
+          "file": "_共用_部门规章/证券投资基金评价业务管理暂行办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653866/1653866/files/b8e27963b62f40e7a34eb5aaec1fafae.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 170037,
+          "file": "_共用_部门规章/证券投资基金评价业务管理暂行办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "证券期货投资者适当性管理办法",
+      "subjects": [
+        "散户"
+      ],
+      "decree": "证监会令第130号",
+      "date": "2016-12-12",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653849/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653777/1653777/files/55712f20664c4750b88134f606275b13.docx",
+      "pdf_url": null,
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653777/1653777/files/55712f20664c4750b88134f606275b13.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 52399,
+          "file": "_共用_部门规章/证券期货投资者适当性管理办法_文字版.docx"
+        }
+      ]
+    },
+    {
+      "name": "证券投资基金托管业务管理办法",
+      "subjects": [
+        "ETF"
+      ],
+      "decree": "证监会令第92号",
+      "date": "2013-04-02",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653705/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653705/1653705/files/d0a609eb9b3e4f66a5dd958e365806a4.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653705/1653705/files/3aff82bca6a042eeb39a0e411c861166.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653705/1653705/files/d0a609eb9b3e4f66a5dd958e365806a4.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 47364,
+          "file": "_共用_部门规章/证券投资基金托管业务管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653705/1653705/files/3aff82bca6a042eeb39a0e411c861166.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 217845,
+          "file": "_共用_部门规章/证券投资基金托管业务管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "证券发行上市保荐业务管理办法",
+      "subjects": [
+        "机构"
+      ],
+      "decree": "证监会令第58号",
+      "date": "2008-10-17",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653903/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653903/1653903/files/18d0ac5356994487a7bb3426ba0de2c7.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653903/1653903/files/8eff689dbdc44c5a9707bb81fa6c6a62.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653903/1653903/files/18d0ac5356994487a7bb3426ba0de2c7.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 61425,
+          "file": "_共用_部门规章/证券发行上市保荐业务管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653903/1653903/files/8eff689dbdc44c5a9707bb81fa6c6a62.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 315490,
+          "file": "_共用_部门规章/证券发行上市保荐业务管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "中国证券监督管理委员会冻结、查封实施办法",
+      "subjects": [
+        "游资"
+      ],
+      "decree": "证监会令第28号",
+      "date": "2005-12-30",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653994/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653994/1653994/files/0507a383c3414132a3a67a2c42a9b02c.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653994/1653994/files/9446abf177a74183a23392fe546dc047.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653994/1653994/files/0507a383c3414132a3a67a2c42a9b02c.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 42973,
+          "file": "_共用_部门规章/中国证券监督管理委员会冻结、查封实施办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653994/1653994/files/9446abf177a74183a23392fe546dc047.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 181371,
+          "file": "_共用_部门规章/中国证券监督管理委员会冻结、查封实施办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "非上市公众公司收购管理办法",
+      "subjects": [
+        "私募",
+        "股东"
+      ],
+      "decree": "证监会令第102号",
+      "date": "2014-06-23",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653991/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653991/1653991/files/6176f89026f34505b440973180329c10.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653991/1653991/files/23c61cffa4924e2e8dfce8a5b81ac553.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653991/1653991/files/6176f89026f34505b440973180329c10.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 48715,
+          "file": "_共用_部门规章/非上市公众公司收购管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653991/1653991/files/23c61cffa4924e2e8dfce8a5b81ac553.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 231196,
+          "file": "_共用_部门规章/非上市公众公司收购管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "外商投资证券公司管理办法",
+      "subjects": [
+        "机构"
+      ],
+      "decree": "证监会令第140号",
+      "date": "2018-04-28",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653966/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653966/1653966/files/6790b82464ab4e7b9db8953b26d7a519.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653966/1653966/files/39d2c370c65347059a365dee8423f2b4.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653966/1653966/files/6790b82464ab4e7b9db8953b26d7a519.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 44141,
+          "file": "_共用_部门规章/外商投资证券公司管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653966/1653966/files/39d2c370c65347059a365dee8423f2b4.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 178876,
+          "file": "_共用_部门规章/外商投资证券公司管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "上市公司重大资产重组管理办法",
+      "subjects": [
+        "股东"
+      ],
+      "decree": "证监会令第53号",
+      "date": "2008-04-16",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653959/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653959/1653959/files/8aa1e859b4c74643ac32f76074d2e72b.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653959/1653959/files/9605a13724054a7d96389368bf1245cf.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653959/1653959/files/8aa1e859b4c74643ac32f76074d2e72b.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 58753,
+          "file": "_共用_部门规章/上市公司重大资产重组管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653959/1653959/files/9605a13724054a7d96389368bf1245cf.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 299713,
+          "file": "_共用_部门规章/上市公司重大资产重组管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "证券公司风险控制指标管理办法",
+      "subjects": [
+        "机构"
+      ],
+      "decree": "证监会令第34号",
+      "date": "2006-07-20",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653957/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653957/1653957/files/4b16ce5d503247a98b230015225a1925.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653957/1653957/files/71d1ceb75ada4ae6b30050ef47927db8.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653957/1653957/files/4b16ce5d503247a98b230015225a1925.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 46113,
+          "file": "_共用_部门规章/证券公司风险控制指标管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653957/1653957/files/71d1ceb75ada4ae6b30050ef47927db8.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 217143,
+          "file": "_共用_部门规章/证券公司风险控制指标管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "证券期货市场诚信监督管理办法",
+      "subjects": [
+        "散户",
+        "游资"
+      ],
+      "decree": "证监会令第139号",
+      "date": "2018-03-28",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653941/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653941/1653941/files/ce5d68e7e4ce4ed8a0717ca3d5196407.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653941/1653941/files/d33e4f9f482e41fea723babe6853b3f0.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653941/1653941/files/ce5d68e7e4ce4ed8a0717ca3d5196407.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 50317,
+          "file": "_共用_部门规章/证券期货市场诚信监督管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653941/1653941/files/d33e4f9f482e41fea723babe6853b3f0.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 242016,
+          "file": "_共用_部门规章/证券期货市场诚信监督管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "非上市公众公司重大资产重组管理办法",
+      "subjects": [
+        "私募"
+      ],
+      "decree": "证监会令第103号",
+      "date": "2014-06-23",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653986/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653986/1653986/files/a0372951fd524ff89df7ef6e76f8dd2f.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653986/1653986/files/7c9d733c4b9e4d5aafa20f4d6b40c237.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653986/1653986/files/a0372951fd524ff89df7ef6e76f8dd2f.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 48100,
+          "file": "_共用_部门规章/非上市公众公司重大资产重组管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653986/1653986/files/7c9d733c4b9e4d5aafa20f4d6b40c237.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 227450,
+          "file": "_共用_部门规章/非上市公众公司重大资产重组管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "上市公司收购管理办法",
+      "subjects": [
+        "股东"
+      ],
+      "decree": "证监会令第10号",
+      "date": "2002-09-28",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653983/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653983/1653983/files/924d2eadecd246d6a91ef6540be50d4a.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653983/1653983/files/a1f859ea84fe4886b8c2232b4b61fe0c.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653983/1653983/files/924d2eadecd246d6a91ef6540be50d4a.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 69018,
+          "file": "_共用_部门规章/上市公司收购管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653983/1653983/files/a1f859ea84fe4886b8c2232b4b61fe0c.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 324205,
+          "file": "_共用_部门规章/上市公司收购管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "上市公司证券发行管理办法",
+      "subjects": [
+        "股东"
+      ],
+      "decree": "证监会令第30号",
+      "date": "2006-05-06",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653996/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653996/1653996/files/3c77d591ab0746daaaa6488a9fd592c6.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653996/1653996/files/f4b1a0f9add34fed8cfb9cabf36880ea.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653996/1653996/files/3c77d591ab0746daaaa6488a9fd592c6.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 53625,
+          "file": "_共用_部门规章/上市公司证券发行管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653996/1653996/files/f4b1a0f9add34fed8cfb9cabf36880ea.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 253210,
+          "file": "_共用_部门规章/上市公司证券发行管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "关于《期货交易管理条例》第七十条第五项“其他操纵期货交易价格行为”的规定",
+      "subjects": [
+        "游资"
+      ],
+      "decree": "证监会令第160号",
+      "date": "2019-11-18",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1654008/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1654008/1654008/files/8ae652757d9743dbafbe91acf2e6ab8a.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1654008/1654008/files/6ce5e30c51f3450c86812a52bc76e0be.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654008/1654008/files/8ae652757d9743dbafbe91acf2e6ab8a.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 38083,
+          "file": "_共用_部门规章/关于《期货交易管理条例》第七十条第五项“其他操纵期货交易价格行为”的规定_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654008/1654008/files/6ce5e30c51f3450c86812a52bc76e0be.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 124787,
+          "file": "_共用_部门规章/关于《期货交易管理条例》第七十条第五项“其他操纵期货交易价格行为”的规定_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "境外证券期货交易所驻华代表机构管理办法",
+      "subjects": [
+        "机构"
+      ],
+      "decree": "证监会令第157号",
+      "date": "2019-07-25",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1654007/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1654007/1654007/files/e428a3e0ae0c41dd80d3c54d3832bc77.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1654007/1654007/files/6584e0cc56684b5dac0339bfd00c694d.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654007/1654007/files/e428a3e0ae0c41dd80d3c54d3832bc77.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 45867,
+          "file": "_共用_部门规章/境外证券期货交易所驻华代表机构管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654007/1654007/files/6584e0cc56684b5dac0339bfd00c694d.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 210973,
+          "file": "_共用_部门规章/境外证券期货交易所驻华代表机构管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "证券期货经营机构私募资产管理业务管理办法",
+      "subjects": [
+        "私募"
+      ],
+      "decree": "证监会令第151号",
+      "date": "2018-10-22",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1654017/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1654017/1654017/files/20ba0991a69c498ca94644bc8a8f895e.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1654017/1654017/files/8ecf4c70dfd1422da174e4210beb9673.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654017/1654017/files/20ba0991a69c498ca94644bc8a8f895e.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 65779,
+          "file": "_共用_部门规章/证券期货经营机构私募资产管理业务管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654017/1654017/files/8ecf4c70dfd1422da174e4210beb9673.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 313226,
+          "file": "_共用_部门规章/证券期货经营机构私募资产管理业务管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "证券登记结算管理办法",
+      "subjects": [
+        "游资",
+        "机构",
+        "ETF",
+        "股东"
+      ],
+      "decree": "证监会令第29号",
+      "date": "2006-04-07",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1654023/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1654023/1654023/files/9d831635dedf40288c243477f818c324.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1654023/1654023/files/419bc3f3b6e24d2396d5aaba91ace9b7.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654023/1654023/files/9d831635dedf40288c243477f818c324.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 53167,
+          "file": "_共用_部门规章/证券登记结算管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654023/1654023/files/419bc3f3b6e24d2396d5aaba91ace9b7.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 249760,
+          "file": "_共用_部门规章/证券登记结算管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "上市公司股权激励管理办法",
+      "subjects": [
+        "股东"
+      ],
+      "decree": "证监会令第126号",
+      "date": "2016-07-13",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1654022/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1654022/1654022/files/7d8f062ccf30469e809a02314dabbf77.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1654022/1654022/files/acd6f7f283254aeb89081831fdbe9b5b.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654022/1654022/files/7d8f062ccf30469e809a02314dabbf77.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 54612,
+          "file": "_共用_部门规章/上市公司股权激励管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654022/1654022/files/acd6f7f283254aeb89081831fdbe9b5b.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 267159,
+          "file": "_共用_部门规章/上市公司股权激励管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "证券发行与承销管理办法",
+      "subjects": [
+        "机构"
+      ],
+      "decree": "证监会令第37号",
+      "date": "2006-09-17",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1654028/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1654028/1654028/files/31a8d49f96ec4eb9903b5e44903ed3f4.doc",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1654028/1654028/files/61f2ace3ff9e4f36b59af5fa3a7acf27.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654028/1654028/files/31a8d49f96ec4eb9903b5e44903ed3f4.doc",
+          "ok": true,
+          "cached": true,
+          "bytes": 67072,
+          "file": "_共用_部门规章/证券发行与承销管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654028/1654028/files/61f2ace3ff9e4f36b59af5fa3a7acf27.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 247020,
+          "file": "_共用_部门规章/证券发行与承销管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "存托凭证发行与交易管理办法（试行）",
+      "subjects": [
+        "散户"
+      ],
+      "decree": "证监会令第143号",
+      "date": "2018-06-06",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1654029/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1654029/1654029/files/b900b96956bb42bb99380db78f2cf7bf.doc",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1654029/1654029/files/faccc3de6f9c472395bcf9bbfcf1d498.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654029/1654029/files/b900b96956bb42bb99380db78f2cf7bf.doc",
+          "ok": true,
+          "cached": true,
+          "bytes": 72192,
+          "file": "_共用_部门规章/存托凭证发行与交易管理办法（试行）_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654029/1654029/files/faccc3de6f9c472395bcf9bbfcf1d498.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 249260,
+          "file": "_共用_部门规章/存托凭证发行与交易管理办法（试行）_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "区域性股权市场监督管理试行办法",
+      "subjects": [
+        "私募"
+      ],
+      "decree": "证监会令第132号",
+      "date": "2017-05-03",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1654024/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1654024/1654024/files/829a7b55d3a64fcaa92cc4db648263b6.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1654024/1654024/files/e4af0e2deb454d02ac3aed4bdefd4dc9.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654024/1654024/files/829a7b55d3a64fcaa92cc4db648263b6.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 52673,
+          "file": "_共用_部门规章/区域性股权市场监督管理试行办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654024/1654024/files/e4af0e2deb454d02ac3aed4bdefd4dc9.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 237103,
+          "file": "_共用_部门规章/区域性股权市场监督管理试行办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "内地与香港股票市场交易互联互通机制若干规定",
+      "subjects": [
+        "散户",
+        "机构"
+      ],
+      "decree": "证监会令第128号",
+      "date": "2016-09-30",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1654020/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1654020/1654020/files/270595e3ebc14fd5b302eb07eb7bb41f.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1654020/1654020/files/6dc3bca009924c9ba18e72b62f1869ed.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654020/1654020/files/270595e3ebc14fd5b302eb07eb7bb41f.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 43638,
+          "file": "_共用_部门规章/内地与香港股票市场交易互联互通机制若干规定_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654020/1654020/files/6dc3bca009924c9ba18e72b62f1869ed.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 174740,
+          "file": "_共用_部门规章/内地与香港股票市场交易互联互通机制若干规定_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "证券投资者保护基金管理办法",
+      "subjects": [
+        "散户"
+      ],
+      "decree": "证监会令第27号",
+      "date": "2005-06-30",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1654018/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1654018/1654018/files/bfe983140d224c4aa7720e421d0c2a8f.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1654018/1654018/files/23db5f72041c439dbfba2dfbbb3209da.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654018/1654018/files/bfe983140d224c4aa7720e421d0c2a8f.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 43720,
+          "file": "_共用_部门规章/证券投资者保护基金管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654018/1654018/files/23db5f72041c439dbfba2dfbbb3209da.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 187478,
+          "file": "_共用_部门规章/证券投资者保护基金管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "货币市场基金监督管理办法",
+      "subjects": [
+        "ETF"
+      ],
+      "decree": "证监会令第120号",
+      "date": "2015-12-17",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1654015/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1654015/1654015/files/03a13e9dd1ae45e5b591724bef5e9141.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1654015/1654015/files/52c60ebbeb5642e08f9f629bb8ed190e.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654015/1654015/files/03a13e9dd1ae45e5b591724bef5e9141.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 48278,
+          "file": "_共用_部门规章/货币市场基金监督管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654015/1654015/files/52c60ebbeb5642e08f9f629bb8ed190e.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 240129,
+          "file": "_共用_部门规章/货币市场基金监督管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "境外交易者和境外经纪机构从事境内特定品种期货交易管理暂行办法",
+      "subjects": [
+        "机构"
+      ],
+      "decree": "证监会令第116号",
+      "date": "2015-06-26",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653998/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653998/1653998/files/cdccd2c314ce47879d299f7c5f518214.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653998/1653998/files/73141349bfe040359d6692bf360a4eff.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653998/1653998/files/cdccd2c314ce47879d299f7c5f518214.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 43884,
+          "file": "_共用_部门规章/境外交易者和境外经纪机构从事境内特定品种期货交易管理暂行办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653998/1653998/files/73141349bfe040359d6692bf360a4eff.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 195242,
+          "file": "_共用_部门规章/境外交易者和境外经纪机构从事境内特定品种期货交易管理暂行办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "证券公司融资融券业务管理办法",
+      "subjects": [
+        "散户",
+        "机构"
+      ],
+      "decree": "证监会令第117号",
+      "date": "2015-07-01",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1654005/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1654005/1654005/files/7ca74e4c85ce4343bbfc3747e5dbd7cc.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1654005/1654005/files/348d63279bf04b8cb224718d26a4f73c.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654005/1654005/files/7ca74e4c85ce4343bbfc3747e5dbd7cc.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 51639,
+          "file": "_共用_部门规章/证券公司融资融券业务管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654005/1654005/files/348d63279bf04b8cb224718d26a4f73c.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 230896,
+          "file": "_共用_部门规章/证券公司融资融券业务管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "股票期权交易试点管理办法",
+      "subjects": [
+        "散户",
+        "ETF"
+      ],
+      "decree": "证监会令第112号",
+      "date": "2015-01-09",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653988/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653988/1653988/files/fab05497587844ba9b8057bd416f8a1c.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653988/1653988/files/ebc14393d45f4c10ae6ffaf9945aca7e.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653988/1653988/files/fab05497587844ba9b8057bd416f8a1c.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 47101,
+          "file": "_共用_部门规章/股票期权交易试点管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653988/1653988/files/ebc14393d45f4c10ae6ffaf9945aca7e.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 213123,
+          "file": "_共用_部门规章/股票期权交易试点管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "中国证监会委托上海、深圳证券交易所实施案件调查试点工作规定",
+      "subjects": [
+        "游资"
+      ],
+      "decree": "证监会令第111号",
+      "date": "2014-12-08",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653984/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653984/1653984/files/37c0b2bb58b94cecbef7ae21887b8a8c.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653984/1653984/files/48b51f22e73f4576b4fc4ab9336c404d.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653984/1653984/files/37c0b2bb58b94cecbef7ae21887b8a8c.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 39103,
+          "file": "_共用_部门规章/中国证监会委托上海、深圳证券交易所实施案件调查试点工作规定_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653984/1653984/files/48b51f22e73f4576b4fc4ab9336c404d.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 147147,
+          "file": "_共用_部门规章/中国证监会委托上海、深圳证券交易所实施案件调查试点工作规定_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "私募投资基金监督管理暂行办法",
+      "subjects": [
+        "私募"
+      ],
+      "decree": "证监会令第105号",
+      "date": "2014-08-21",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653981/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653981/1653981/files/7f20f10d0e0c42d6950f8cfcd30837b0.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653981/1653981/files/9400b6098c8349ccaafed70c2c48d9a8.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653981/1653981/files/7f20f10d0e0c42d6950f8cfcd30837b0.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 46428,
+          "file": "_共用_部门规章/私募投资基金监督管理暂行办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653981/1653981/files/9400b6098c8349ccaafed70c2c48d9a8.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 219088,
+          "file": "_共用_部门规章/私募投资基金监督管理暂行办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "公开募集证券投资基金运作管理办法",
+      "subjects": [
+        "ETF"
+      ],
+      "decree": "证监会令第104号",
+      "date": "2014-07-07",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653978/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653978/1653978/files/aed0c53c07ab4a809707e6a588f8c0cf.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653978/1653978/files/1b26d5810f794a629581888ace061d08.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653978/1653978/files/aed0c53c07ab4a809707e6a588f8c0cf.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 52017,
+          "file": "_共用_部门规章/公开募集证券投资基金运作管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653978/1653978/files/1b26d5810f794a629581888ace061d08.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 246851,
+          "file": "_共用_部门规章/公开募集证券投资基金运作管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "公开募集证券投资基金风险准备金监督管理暂行办法",
+      "subjects": [
+        "ETF"
+      ],
+      "decree": "证监会令第94号",
+      "date": "2013-09-24",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653975/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653975/1653975/files/b7bf45c895a444aba469a876dbde3b15.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653975/1653975/files/57b202cc56a34e5c8eb704de8dbcc1e7.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653975/1653975/files/b7bf45c895a444aba469a876dbde3b15.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 41894,
+          "file": "_共用_部门规章/公开募集证券投资基金风险准备金监督管理暂行办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653975/1653975/files/57b202cc56a34e5c8eb704de8dbcc1e7.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 175300,
+          "file": "_共用_部门规章/公开募集证券投资基金风险准备金监督管理暂行办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "证券期货业反洗钱工作实施办法",
+      "subjects": [
+        "散户"
+      ],
+      "decree": "证监会令第68号",
+      "date": "2010-09-01",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653958/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653958/1653958/files/951d5bf3f07f4914b49cf3488d448869.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653958/1653958/files/d8578aab72b04d958e1271f2a33aaf85.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653958/1653958/files/951d5bf3f07f4914b49cf3488d448869.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 42336,
+          "file": "_共用_部门规章/证券期货业反洗钱工作实施办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653958/1653958/files/d8578aab72b04d958e1271f2a33aaf85.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 166702,
+          "file": "_共用_部门规章/证券期货业反洗钱工作实施办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "上市公司并购重组财务顾问业务管理办法",
+      "subjects": [
+        "股东"
+      ],
+      "decree": "证监会令第54号",
+      "date": "2008-06-03",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653940/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653940/1653940/files/0b96b6a5304f4b49828a157a173f816b.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653940/1653940/files/7e195a7469cd48c49689a2ef2e6ccdb2.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653940/1653940/files/0b96b6a5304f4b49828a157a173f816b.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 50600,
+          "file": "_共用_部门规章/上市公司并购重组财务顾问业务管理办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653940/1653940/files/7e195a7469cd48c49689a2ef2e6ccdb2.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 245092,
+          "file": "_共用_部门规章/上市公司并购重组财务顾问业务管理办法_图片版.pdf"
+        }
+      ]
+    },
+    {
+      "name": "合格境内机构投资者境外证券投资管理试行办法",
+      "subjects": [
+        "机构"
+      ],
+      "decree": "证监会令第46号",
+      "date": "2007-06-18",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653919/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653919/1653919/files/e99f2e3e407b49cfbde9e819d6775e5e.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653919/1653919/files/f2be4becdb964634a58ddb409270fd4b.pdf",
+      "level": "部门规章",
+      "issuer": "中国证监会",
+      "tier": "official",
+      "effect": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653919/1653919/files/e99f2e3e407b49cfbde9e819d6775e5e.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 47463,
+          "file": "_共用_部门规章/合格境内机构投资者境外证券投资管理试行办法_文字版.docx"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653919/1653919/files/f2be4becdb964634a58ddb409270fd4b.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 198133,
+          "file": "_共用_部门规章/合格境内机构投资者境外证券投资管理试行办法_图片版.pdf"
+        }
+      ]
+    }
+  ],
+  "supplements": [
+    {
+      "subjects": [
+        "散户"
+      ],
+      "name": "国务院办公厅关于进一步加强资本市场中小投资者合法权益保护工作的意见",
+      "decree": "国办发〔2013〕110号",
+      "date": "2013-12-27",
+      "level": "政策文件（国务院办公厅）",
+      "url": "https://www.gov.cn/zwgk/2013-12/27/content_2555712.htm",
+      "kind": "page",
+      "effect": "现行有效（投资者保护基础性政策）",
+      "note": "九条意见：适当性制度、投资回报、知情权、投票机制、多元纠纷解决与赔偿机制；散户专属",
+      "fetched_at": "2026-11-09T16:44:14",
+      "files": [
+        {
+          "ok": true,
+          "file": "散户/国务院办公厅关于进一步加强资本市场中小投资者合法权益保护工作的意见_正文.txt",
+          "bytes": 0,
+          "url": "https://www.gov.cn/zwgk/2013-12/27/content_2555712.htm"
+        }
+      ],
+      "pages": [
+        {
+          "url": "https://www.gov.cn/zwgk/2013-12/27/content_2555712.htm",
+          "ok": true,
+          "http": 200,
+          "text_chars": 4436,
+          "file": "散户/国务院办公厅关于进一步加强资本市场中小投资者合法权益保护工作的意见_正文.txt",
+          "rule_fields": {},
+          "effectiveness": "页面未标注",
+          "source_tier": "unknown",
+          "validity_signals": [
+            "国办发〔2013〕110号"
+          ],
+          "attach_urls": []
+        }
+      ],
+      "tier": "unknown"
+    },
+    {
+      "subjects": [
+        "游资",
+        "散户"
+      ],
+      "name": "证券市场程序化交易管理规定（试行）发布通知",
+      "decree": "证监会公告〔2024〕8号",
+      "date": "2024-05-15",
+      "level": "规范性文件（证监会公告）",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7480577/content.shtml",
+      "kind": "page",
+      "effect": "现行有效（2024-10-08 施行）",
+      "note": "先报告后交易、高频交易差异化监管；游资/量化核心依据",
+      "fetched_at": "2026-11-09T16:44:15",
+      "files": [
+        {
+          "ok": true,
+          "file": "游资/证券市场程序化交易管理规定（试行）发布通知_正文.txt",
+          "bytes": 0,
+          "url": "https://www.csrc.gov.cn/csrc/c100028/c7480577/content.shtml"
+        }
+      ],
+      "pages": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c100028/c7480577/content.shtml",
+          "ok": true,
+          "http": 200,
+          "text_chars": 1611,
+          "file": "游资/证券市场程序化交易管理规定（试行）发布通知_正文.txt",
+          "rule_fields": {},
+          "effectiveness": "页面未标注",
+          "source_tier": "unknown",
+          "validity_signals": [],
+          "attach_urls": []
+        }
+      ],
+      "tier": "unknown"
+    },
+    {
+      "subjects": [
+        "游资"
+      ],
+      "name": "上海证券交易所程序化交易管理实施细则",
+      "decree": "上证发〔2025〕52号",
+      "date": "2025-04-03",
+      "level": "业务细则（上交所）",
+      "url": "https://neris.csrc.gov.cn/falvfagui/rdqsHeader/mainbody?navbarId=1&secFutrsLawId=02f4e66cfa264f5eb5d4f78ecebc1470",
+      "kind": "neris",
+      "effect": "证监会法规库标「已被修改」；上交所页面标「现行有效」——存在分歧",
+      "note": "2025-07-07 施行；另存上交所详情页正文作交叉核验",
+      "fetched_at": "2026-11-09T16:44:16",
+      "files": [
+        {
+          "ok": true,
+          "file": "游资/上海证券交易所程序化交易管理实施细则_正文.txt",
+          "bytes": 0,
+          "url": "https://neris.csrc.gov.cn/falvfagui/rdqsHeader/mainbody?navbarId=1&secFutrsLawId=02f4e66cfa264f5eb5d4f78ecebc1470"
+        }
+      ],
+      "pages": [
+        {
+          "url": "https://neris.csrc.gov.cn/falvfagui/rdqsHeader/mainbody?navbarId=1&secFutrsLawId=02f4e66cfa264f5eb5d4f78ecebc1470",
+          "ok": true,
+          "http": 200,
+          "text_chars": 2911,
+          "file": "游资/上海证券交易所程序化交易管理实施细则_正文.txt",
+          "rule_fields": {
+            "文件名称": "上海证券交易所程序化交易管理实施细则",
+            "效力状态": "已被修改",
+            "失效日期": "",
+            "发文单位": "上海证券交易所",
+            "文号": "上证发〔2025〕52号",
+            "发文日期": "2025-04-03",
+            "实施日期": "2025-07-07"
+          },
+          "effectiveness": "已被修改",
+          "source_tier": "official",
+          "validity_signals": [
+            "上证发〔2025〕52号"
+          ],
+          "attach_urls": []
+        }
+      ],
+      "tier": "official"
+    },
+    {
+      "subjects": [
+        "游资"
+      ],
+      "name": "上海证券交易所程序化交易管理实施细则（上交所详情页）",
+      "decree": "上证发〔2025〕52号",
+      "date": "2025-04-03",
+      "level": "业务细则（上交所）",
+      "url": "https://www.sse.com.cn/lawandrules/sselawsrules2025/trade/universal/c/c_20250612_10781696.shtml",
+      "kind": "page",
+      "effect": "现行有效（上交所页面）",
+      "note": "与法规库效力状态冲突，双份留存以备核对",
+      "attachments": 2,
+      "fetched_at": "2026-11-09T16:44:17",
+      "files": [
+        {
+          "ok": true,
+          "file": "游资/上海证券交易所程序化交易管理实施细则（上交所详情页）_正文.txt",
+          "bytes": 0,
+          "url": "https://www.sse.com.cn/lawandrules/sselawsrules2025/trade/universal/c/c_20250612_10781696.shtml"
+        },
+        {
+          "url": "https://www.sse.com.cn/lawandrules/sselawsrules2025/trade/universal/c/10781696/files/c60d05e3e84f4529956bbca3b9704170.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 38879,
+          "file": "游资/上海证券交易所程序化交易管理实施细则（上交所详情页）_附件1.docx"
+        },
+        {
+          "url": "https://www.sse.com.cn/lawandrules/sselawsrules2025/trade/universal/c/10781696/files/391a5dfdc5ab4ce49c56d79c24c90ea4.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 25490,
+          "file": "游资/上海证券交易所程序化交易管理实施细则（上交所详情页）_附件2.docx"
+        }
+      ],
+      "pages": [
+        {
+          "url": "https://www.sse.com.cn/lawandrules/sselawsrules2025/trade/universal/c/c_20250612_10781696.shtml",
+          "ok": true,
+          "http": 200,
+          "text_chars": 1916,
+          "file": "游资/上海证券交易所程序化交易管理实施细则（上交所详情页）_正文.txt",
+          "rule_fields": {},
+          "effectiveness": "页面未标注",
+          "source_tier": "unknown",
+          "validity_signals": [
+            "时效性 现行有效",
+            "序和市场公平，上海证券交易所制定了《上海证券交易所程序化交易管理实施细则》（详见附件），经中国证监会批准，现予以发布，并自2025年7月7日起施行。",
+            "发文文号 上证发〔2025〕52号",
+            "上证发〔2025〕52号"
+          ],
+          "attach_urls": [
+            "https://www.sse.com.cn/lawandrules/sselawsrules2025/trade/universal/c/10781696/files/c60d05e3e84f4529956bbca3b9704170.docx",
+            "https://www.sse.com.cn/lawandrules/sselawsrules2025/trade/universal/c/10781696/files/391a5dfdc5ab4ce49c56d79c24c90ea4.docx"
+          ]
+        }
+      ],
+      "tier": "unknown"
+    },
+    {
+      "subjects": [
+        "机构"
+      ],
+      "name": "首次公开发行证券网下投资者管理规则等三项自律规则通知",
+      "decree": "中证协发布",
+      "date": "2023-02-17",
+      "level": "自律规则（中证协）",
+      "url": "https://www.sac.net.cn/tzg/202512/t20251231_77966.html",
+      "kind": "page",
+      "effect": "现行有效（网下投资者管理）",
+      "note": "网下投资者分类评价、北交所网下特别规定；页面附 8 份 PDF",
+      "attachments": 3,
+      "fetched_at": "2026-11-09T16:44:18",
+      "files": [
+        {
+          "ok": true,
+          "file": "机构/首次公开发行证券网下投资者管理规则等三项自律规则通知_正文.txt",
+          "bytes": 0,
+          "url": "https://www.sac.net.cn/tzg/202512/t20251231_77966.html"
+        },
+        {
+          "url": "https://www.sac.net.cn/tzg/202512/P020251231528183005829.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 334064,
+          "file": "机构/首次公开发行证券网下投资者管理规则等三项自律规则通知_附件1.pdf"
+        },
+        {
+          "url": "https://www.sac.net.cn/tzg/202512/P020251231528183105568.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 229203,
+          "file": "机构/首次公开发行证券网下投资者管理规则等三项自律规则通知_附件2.pdf"
+        },
+        {
+          "url": "https://www.sac.net.cn/tzg/202512/P020251231528183205674.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 135641,
+          "file": "机构/首次公开发行证券网下投资者管理规则等三项自律规则通知_附件3.pdf"
+        }
+      ],
+      "pages": [
+        {
+          "url": "https://www.sac.net.cn/tzg/202512/t20251231_77966.html",
+          "ok": true,
+          "http": 200,
+          "text_chars": 2823,
+          "file": "机构/首次公开发行证券网下投资者管理规则等三项自律规则通知_正文.txt",
+          "rule_fields": {},
+          "effectiveness": "页面未标注",
+          "source_tier": "official",
+          "validity_signals": [
+            "上述规则及文件 现予发布，并自发布之日起施行。"
+          ],
+          "attach_urls": [
+            "https://www.sac.net.cn/tzg/202512/P020251231528183005829.pdf",
+            "https://www.sac.net.cn/tzg/202512/P020251231528183105568.pdf",
+            "https://www.sac.net.cn/tzg/202512/P020251231528183205674.pdf"
+          ]
+        }
+      ],
+      "tier": "official"
+    },
+    {
+      "subjects": [
+        "私募"
+      ],
+      "name": "私募投资基金监督管理条例",
+      "decree": "国务院令第762号",
+      "date": "2023-07-03",
+      "level": "行政法规",
+      "url": "https://www.gov.cn/zhengce/content/202307/content_6890738.htm",
+      "kind": "page",
+      "effect": "现行有效（2023-09-01 施行）",
+      "note": "私募领域首部行政法规，上位法依据",
+      "fetched_at": "2026-11-09T16:44:20",
+      "files": [
+        {
+          "ok": true,
+          "file": "私募/私募投资基金监督管理条例_正文.txt",
+          "bytes": 0,
+          "url": "https://www.gov.cn/zhengce/content/202307/content_6890738.htm"
+        }
+      ],
+      "pages": [
+        {
+          "url": "https://www.gov.cn/zhengce/content/202307/content_6890738.htm",
+          "ok": true,
+          "http": 200,
+          "text_chars": 11940,
+          "file": "私募/私募投资基金监督管理条例_正文.txt",
+          "rule_fields": {},
+          "effectiveness": "页面未标注",
+          "source_tier": "official",
+          "validity_signals": [
+            "《私募投资基金监督管理条例》已经2023年6月16日国务院第8次常务会议通过，现予公布，自2023年9月1日起施行。",
+            "第六十二条 本条例自2023年9月1日起施行。"
+          ],
+          "attach_urls": []
+        }
+      ],
+      "tier": "official"
+    },
+    {
+      "subjects": [
+        "私募"
+      ],
+      "name": "私募投资基金信息披露监督管理办法",
+      "decree": "证监会令第233号",
+      "date": "2026-02-24",
+      "level": "部门规章",
+      "url": "https://neris.csrc.gov.cn/falvfagui/rdqsHeader/mainbody?navbarId=1&secFutrsLawId=7f030647190c4f1983bb4ab04a78e60a",
+      "kind": "neris",
+      "effect": "现行有效（2026-09-01 施行）",
+      "note": "2026 新规；注意施行日期晚于发布日期",
+      "fetched_at": "2026-11-09T16:44:21",
+      "files": [
+        {
+          "ok": true,
+          "file": "私募/私募投资基金信息披露监督管理办法_正文.txt",
+          "bytes": 0,
+          "url": "https://neris.csrc.gov.cn/falvfagui/rdqsHeader/mainbody?navbarId=1&secFutrsLawId=7f030647190c4f1983bb4ab04a78e60a"
+        }
+      ],
+      "pages": [
+        {
+          "url": "https://neris.csrc.gov.cn/falvfagui/rdqsHeader/mainbody?navbarId=1&secFutrsLawId=7f030647190c4f1983bb4ab04a78e60a",
+          "ok": true,
+          "http": 200,
+          "text_chars": 2910,
+          "file": "私募/私募投资基金信息披露监督管理办法_正文.txt",
+          "rule_fields": {
+            "文件名称": "私募投资基金信息披露监督管理办法",
+            "效力状态": "现行有效",
+            "失效日期": "",
+            "发文单位": "中国证券监督管理委员会",
+            "文号": "证监会令第233号",
+            "发文日期": "2026-02-24",
+            "实施日期": "2026-09-01"
+          },
+          "effectiveness": "现行有效",
+          "source_tier": "official",
+          "validity_signals": [
+            "证监会令第233号"
+          ],
+          "attach_urls": []
+        }
+      ],
+      "tier": "official"
+    },
+    {
+      "subjects": [
+        "私募"
+      ],
+      "name": "关于发布《私募投资基金登记备案办法》的公告",
+      "decree": "中基协发〔2023〕5号",
+      "date": "2023-02-24",
+      "level": "自律规则（中基协）",
+      "url": "https://fg.amac.org.cn/governmentrules_3854/zcgz_zlgz/zlgz_smjj/zlgz_smjj_cpl/202303/t20230328_24547.html",
+      "kind": "page",
+      "effect": "页面效力状态留空（需另行核验）",
+      "attachments": 2,
+      "note": "2023-05-01 施行；取代《私募投资基金管理人登记和基金备案办法（试行）》",
+      "fetched_at": "2026-11-09T16:44:22",
+      "files": [
+        {
+          "ok": true,
+          "file": "私募/关于发布《私募投资基金登记备案办法》的公告_正文.txt",
+          "bytes": 0,
+          "url": "https://fg.amac.org.cn/governmentrules_3854/zcgz_zlgz/zlgz_smjj/zlgz_smjj_cpl/202303/t20230328_24547.html"
+        },
+        {
+          "url": "https://fg.amac.org.cn/governmentrules_3854/zcgz_zlgz/zlgz_smjj/zlgz_smjj_cpl/202303/P020231126438070516230.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 308691,
+          "file": "私募/关于发布《私募投资基金登记备案办法》的公告_附件1.pdf"
+        }
+      ],
+      "pages": [
+        {
+          "url": "https://fg.amac.org.cn/governmentrules_3854/zcgz_zlgz/zlgz_smjj/zlgz_smjj_cpl/202303/t20230328_24547.html",
+          "ok": true,
+          "http": 200,
+          "text_chars": 1413,
+          "file": "私募/关于发布《私募投资基金登记备案办法》的公告_正文.txt",
+          "rule_fields": {
+            "文件名称": "关于发布《私募投资基金登记备案办法》的公告",
+            "效力状态": "",
+            "失效日期": "",
+            "发文单位": "",
+            "文号": "中基协发〔2023〕5号",
+            "发文日期": "2023-02-24",
+            "实施日期": ""
+          },
+          "effectiveness": "页面未标注",
+          "source_tier": "official",
+          "validity_signals": [
+            "理人登记和基金备案办法（试行）》修订为《私募投资基金登记备案办法》（以下简称《办法》），经协会理事会审议通过，现予发布，自2023年 5 月 1 日起施行。",
+            "资者合法权益，促进行业健康发展，中国证券投资基金业协会（以下简称协会）将《私募投资基金管理人登记和基金备案办法（试行）》修订为《私募投资基金登记备案办法》（以下简称《办法》），经协会理事会审议通过，现予发布，自2023年 5 月 1 日起施行。",
+            "中基协发〔2023〕5号"
+          ],
+          "attach_urls": [
+            "https://fg.amac.org.cn/governmentrules_3854/zcgz_zlgz/zlgz_smjj/zlgz_smjj_cpl/202303/P020231126438070516230.pdf"
+          ]
+        }
+      ],
+      "tier": "official"
+    },
+    {
+      "subjects": [
+        "ETF"
+      ],
+      "name": "上海证券交易所主动管理交易型开放式证券投资基金业务指引",
+      "decree": "上证发〔2026〕64号",
+      "date": "2026-06-17",
+      "level": "业务指引（上交所）",
+      "url": "https://www.sse.com.cn/lawandrules/sselawsrules2025/fund/trading/c/c_20260617_10822565.shtml",
+      "kind": "page",
+      "effect": "现行有效（发布之日起施行）",
+      "attachments": 2,
+      "note": "主动 ETF 管理人/基金经理资质、持仓分散、PCF 每日披露",
+      "fetched_at": "2026-11-09T16:44:44",
+      "files": [
+        {
+          "ok": true,
+          "file": "ETF/上海证券交易所主动管理交易型开放式证券投资基金业务指引_正文.txt",
+          "bytes": 0,
+          "url": "https://www.sse.com.cn/lawandrules/sselawsrules2025/fund/trading/c/c_20260617_10822565.shtml"
+        },
+        {
+          "url": "https://www.sse.com.cn/lawandrules/sselawsrules2025/fund/trading/c/10822565/files/0d65e2eaaf7640a18453e415264b10e6.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 19564,
+          "file": "ETF/上海证券交易所主动管理交易型开放式证券投资基金业务指引_附件1.docx"
+        }
+      ],
+      "pages": [
+        {
+          "url": "https://www.sse.com.cn/lawandrules/sselawsrules2025/fund/trading/c/c_20260617_10822565.shtml",
+          "ok": true,
+          "http": 200,
+          "text_chars": 1820,
+          "file": "ETF/上海证券交易所主动管理交易型开放式证券投资基金业务指引_正文.txt",
+          "rule_fields": {},
+          "effectiveness": "页面未标注",
+          "source_tier": "unknown",
+          "validity_signals": [
+            "时效性 现行有效",
+            "业高质量发展，上海证券交易所制定了《上海证券交易所主动管理交易型开放式证券投资基金业务指引》（详见附件），现予以发布，并自发布之日起施行。",
+            "发文文号 上证发〔2026〕64号",
+            "上证发〔2026〕64号"
+          ],
+          "attach_urls": [
+            "https://www.sse.com.cn/lawandrules/sselawsrules2025/fund/trading/c/10822565/files/0d65e2eaaf7640a18453e415264b10e6.docx"
+          ]
+        }
+      ],
+      "tier": "unknown"
+    },
+    {
+      "subjects": [
+        "ETF"
+      ],
+      "name": "深圳证券交易所证券投资基金业务指引第5号——主动管理交易型开放式基金",
+      "decree": "深证上〔2026〕841号",
+      "date": "2026-06-17",
+      "level": "业务指引（深交所）",
+      "url": "http://www.szse.cn/lawrules/rule/fund/list/t20260617_621085.html",
+      "kind": "page",
+      "effect": "现行有效（发布之日起施行）",
+      "attachments": 2,
+      "note": "深交所主动 ETF 配套指引",
+      "fetched_at": "2026-11-09T16:44:45",
+      "files": [
+        {
+          "ok": true,
+          "file": "ETF/深圳证券交易所证券投资基金业务指引第5号——主动管理交易型开放式基金_正文.txt",
+          "bytes": 0,
+          "url": "http://www.szse.cn/lawrules/rule/fund/list/t20260617_621085.html"
+        },
+        {
+          "url": "http://docs.static.szse.cn/www/lawrules/rule/fund/list/W020260617519656420997.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 146288,
+          "file": "ETF/深圳证券交易所证券投资基金业务指引第5号——主动管理交易型开放式基金_附件1.pdf"
+        },
+        {
+          "url": "http://docs.static.szse.cn/www/lawrules/rule/fund/list/W020260617519656577932.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 154064,
+          "file": "ETF/深圳证券交易所证券投资基金业务指引第5号——主动管理交易型开放式基金_附件2.pdf"
+        }
+      ],
+      "pages": [
+        {
+          "url": "http://www.szse.cn/lawrules/rule/fund/list/t20260617_621085.html",
+          "ok": true,
+          "http": 200,
+          "text_chars": 447,
+          "file": "ETF/深圳证券交易所证券投资基金业务指引第5号——主动管理交易型开放式基金_正文.txt",
+          "rule_fields": {},
+          "effectiveness": "页面未标注",
+          "source_tier": "unknown",
+          "validity_signals": [
+            "质量发展，深圳证券交易所 制定了《深圳证券交易所证券投资基金业务指引第 5号——主动管理交易型开放式基金》 ，现予发布，自发布之日起施行。"
+          ],
+          "attach_urls": [
+            "http://docs.static.szse.cn/www/lawrules/rule/fund/list/W020260617519656420997.pdf",
+            "http://docs.static.szse.cn/www/lawrules/rule/fund/list/W020260617519656577932.pdf"
+          ]
+        }
+      ],
+      "tier": "unknown"
+    },
+    {
+      "subjects": [
+        "股东"
+      ],
+      "name": "上市公司股东减持股份管理暂行办法（2025年修订）",
+      "decree": "证监会令第227号",
+      "date": "2025-03-27",
+      "level": "部门规章",
+      "url": "https://neris.csrc.gov.cn/falvfagui/rdqsHeader/mainbody?navbarId=1&secFutrsLawId=9da8b0e7910e44c4a693073ee3b926c9",
+      "kind": "neris",
+      "effect": "现行有效",
+      "note": "★取代并废止证监会公告〔2017〕9号《上市公司股东、董监高减持股份的若干规定》",
+      "fetched_at": "2026-11-09T16:44:47",
+      "files": [
+        {
+          "ok": true,
+          "file": "股东/上市公司股东减持股份管理暂行办法（2025年修订）_正文.txt",
+          "bytes": 0,
+          "url": "https://neris.csrc.gov.cn/falvfagui/rdqsHeader/mainbody?navbarId=1&secFutrsLawId=9da8b0e7910e44c4a693073ee3b926c9"
+        }
+      ],
+      "pages": [
+        {
+          "url": "https://neris.csrc.gov.cn/falvfagui/rdqsHeader/mainbody?navbarId=1&secFutrsLawId=9da8b0e7910e44c4a693073ee3b926c9",
+          "ok": true,
+          "http": 200,
+          "text_chars": 2919,
+          "file": "股东/上市公司股东减持股份管理暂行办法（2025年修订）_正文.txt",
+          "rule_fields": {
+            "文件名称": "上市公司股东减持股份管理暂行办法（2025年修订）",
+            "效力状态": "现行有效",
+            "失效日期": "",
+            "发文单位": "中国证券监督管理委员会",
+            "文号": "证监会令第227号",
+            "发文日期": "2025-03-27",
+            "实施日期": "2025-03-27"
+          },
+          "effectiveness": "现行有效",
+          "source_tier": "official",
+          "validity_signals": [
+            "上市公司股东减持股份管理暂行办法（2025年修订）",
+            "证监会令第227号"
+          ],
+          "attach_urls": []
+        }
+      ],
+      "tier": "official"
+    },
+    {
+      "subjects": [
+        "股东"
+      ],
+      "name": "上市公司董事、监事和高级管理人员所持本公司股份及其变动管理规则（2024）",
+      "decree": "证监会公告〔2024〕9号",
+      "date": "2024-05-24",
+      "level": "规范性文件",
+      "url": "https://www.csrc.gov.cn/csrc/c101954/c7483152/7483152/files/%E9%99%84%E4%BB%B61%EF%BC%9A%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E3%80%81%E7%9B%91%E4%BA%8B%E5%92%8C%E9%AB%98%E7%BA%A7%E7%AE%A1%E7%90%86%E4%BA%BA%E5%91%98%E6%89%80%E6%8C%81%E6%9C%AC%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%BD%E5%8F%8A%E5%85%B6%E5%8F%98%E5%8A%A8%E7%AE%A1%E7%90%86%E8%A7%84%E5%88%99.pdf",
+      "kind": "pdf",
+      "effect": "已被 2025 年修正版取代",
+      "note": "减持「1+2」规则体系中的董监高持股变动规则初版",
+      "fetched_at": "2026-11-09T16:44:48",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c101954/c7483152/7483152/files/%E9%99%84%E4%BB%B61%EF%BC%9A%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E3%80%81%E7%9B%91%E4%BA%8B%E5%92%8C%E9%AB%98%E7%BA%A7%E7%AE%A1%E7%90%86%E4%BA%BA%E5%91%98%E6%89%80%E6%8C%81%E6%9C%AC%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%BD%E5%8F%8A%E5%85%B6%E5%8F%98%E5%8A%A8%E7%AE%A1%E7%90%86%E8%A7%84%E5%88%99.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 249497,
+          "file": "股东/上市公司董事、监事和高级管理人员所持本公司股份及其变动管理规则（2024）.pdf"
+        }
+      ],
+      "tier": "unknown"
+    },
+    {
+      "subjects": [
+        "股东"
+      ],
+      "name": "上市公司董事和高级管理人员所持本公司股份及其变动管理规则（2025修正）",
+      "decree": "证监会公告〔2025〕5号",
+      "date": "2025-03-27",
+      "level": "规范性文件",
+      "url": "https://www.bse.cn/uploads/6/file/public/202505/20250506173003_ei4ai8kn8w.pdf",
+      "kind": "pdf",
+      "effect": "现行有效",
+      "note": "2025 年更名并删去「监事」，为当前适用版本",
+      "fetched_at": "2026-11-09T16:44:49",
+      "files": [
+        {
+          "url": "https://www.bse.cn/uploads/6/file/public/202505/20250506173003_ei4ai8kn8w.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 182661,
+          "file": "股东/上市公司董事和高级管理人员所持本公司股份及其变动管理规则（2025修正）.pdf"
+        }
+      ],
+      "tier": "unknown"
+    }
+  ]
+}

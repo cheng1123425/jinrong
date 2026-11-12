@@ -1,0 +1,449 @@
+{
+  "generated_at": "2026-11-09T16:08:36",
+  "source": "证监会规章库 fg.shtml + fg_2..fg_5.shtml",
+  "count": 13,
+  "items": [
+    {
+      "name": "证券基金经营机构董事、监事、高级管理人员及从业人员监督管理办法",
+      "full_label": "证券基金经营机构董事、监事、高级管理人员及从业人员监督管理办法 (2022年2月18日证监会令第195号公布 自2022年4月1日起施行)",
+      "decree": "证监会令第195号",
+      "publish_date": "2022-02-18",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1942800/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1942800/1942800/files/0a355aec33944b3bad74a78da2aeff46.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1942800/1942800/files/d291666369b54cf799f80011bfdc7b9b.pdf",
+      "source_page": "https://www.csrc.gov.cn/csrc/c106256/fg.shtml",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1942800/1942800/files/0a355aec33944b3bad74a78da2aeff46.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 58281,
+          "file": "部门规章/证券基金经营机构董事、监事、高级管理人员及从业人员监督管理办法_文字版.docx",
+          "sha256": "c4f4cd19fb6073f4a2bb59aac8c86157f54b144a6e1defb7bfbf4e54e8d97e44"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1942800/1942800/files/d291666369b54cf799f80011bfdc7b9b.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 320058,
+          "file": "部门规章/证券基金经营机构董事、监事、高级管理人员及从业人员监督管理办法_图片版.pdf",
+          "sha256": "937da5640e62208ce39db9462c81218f57a38ac243d0bbf1700a01bb76c6d115"
+        }
+      ],
+      "subject": "公募基金",
+      "tier": "official",
+      "level": "部门规章",
+      "issuer": "中国证券监督管理委员会",
+      "effectiveness": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "fetched_at": "2026-11-09T16:08:25"
+    },
+    {
+      "name": "证券基金经营机构信息技术管理办法",
+      "full_label": "证券基金经营机构信息技术管理办法 （2018年12月19日证监会令第152号公布 根据2021年1月15日证监会令第179号《关于修改、废止部分证券期货规章的决定》修订）",
+      "decree": "证监会令第152号",
+      "publish_date": "2018-12-19",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653896/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653896/1653896/files/76df1b5d88424c22927764af6e93b2f5.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653896/1653896/files/f00eeeee7b75483e83c3c83fadf0f4ad.pdf",
+      "source_page": "https://www.csrc.gov.cn/csrc/c106256/fg.shtml",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653896/1653896/files/76df1b5d88424c22927764af6e93b2f5.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 53796,
+          "file": "部门规章/证券基金经营机构信息技术管理办法_文字版.docx",
+          "sha256": "9ed976cc242991d501dfdc709545e3cb38dcba845dab545d4b09cfdf9ff29197"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653896/1653896/files/f00eeeee7b75483e83c3c83fadf0f4ad.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 227062,
+          "file": "部门规章/证券基金经营机构信息技术管理办法_图片版.pdf",
+          "sha256": "2490f779ec71b26226b99927b6185c32cdc5438a6a575adb5d1f71e528b30823"
+        }
+      ],
+      "subject": "公募基金",
+      "tier": "official",
+      "level": "部门规章",
+      "issuer": "中国证券监督管理委员会",
+      "effectiveness": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "fetched_at": "2026-11-09T16:08:25"
+    },
+    {
+      "name": "证券公司和证券投资基金管理公司境外设立、收购、参股经营机构管理办法",
+      "full_label": "证券公司和证券投资基金管理公司境外设立、收购、参股经营机构管理办法 （2018年9月25日证监会令第150号公布 根据2021年1月15日证监会令第179号《关于修改、废止部分证券期货规章的决定》修订）",
+      "decree": "证监会令第150号",
+      "publish_date": "2018-09-25",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653890/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653890/1653890/files/00319b79e0c5492ca867fb7213f19efa.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653890/1653890/files/3771673301a548a6bc30ae4f95def572.pdf",
+      "source_page": "https://www.csrc.gov.cn/csrc/c106256/fg.shtml",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653890/1653890/files/00319b79e0c5492ca867fb7213f19efa.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 36831,
+          "file": "部门规章/证券公司和证券投资基金管理公司境外设立、收购、参股经营机构管理办法_文字版.docx",
+          "sha256": "8ca65816f6ff611a20da44ee25a00cbb79baabe64cd735dbc3ddf29d96e33ead"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653890/1653890/files/3771673301a548a6bc30ae4f95def572.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 185810,
+          "file": "部门规章/证券公司和证券投资基金管理公司境外设立、收购、参股经营机构管理办法_图片版.pdf",
+          "sha256": "1cfc588f962819035d9a39dfcf35345948ca37e0ffcd21eab045b17d7c83de72"
+        }
+      ],
+      "subject": "公募基金",
+      "tier": "official",
+      "level": "部门规章",
+      "issuer": "中国证券监督管理委员会",
+      "effectiveness": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "fetched_at": "2026-11-09T16:08:26"
+    },
+    {
+      "name": "证券投资基金评价业务管理暂行办法",
+      "full_label": "证券投资基金评价业务管理暂行办法 （2009年11月6日证监会令第64号公布 根据2020年10月30日证监会令第177号《关于修改、废止部分证券期货规章的决定》修订）",
+      "decree": "证监会令第64号",
+      "publish_date": "2009-11-06",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653866/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653866/1653866/files/a122fce36f8442c4bf8fd3994fc85a14.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653866/1653866/files/b8e27963b62f40e7a34eb5aaec1fafae.pdf",
+      "source_page": "https://www.csrc.gov.cn/csrc/c106256/fg_2.shtml",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653866/1653866/files/a122fce36f8442c4bf8fd3994fc85a14.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 43175,
+          "file": "部门规章/证券投资基金评价业务管理暂行办法_文字版.docx",
+          "sha256": "e44c78be74090797e055cbea6691ceb1bb3249e0a5a640ec6b4ec8855ada7c10"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653866/1653866/files/b8e27963b62f40e7a34eb5aaec1fafae.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 170037,
+          "file": "部门规章/证券投资基金评价业务管理暂行办法_图片版.pdf",
+          "sha256": "ba917c901fd5eeb53056bdd7bf764fb2932f64900855a750aae89b1ff981b6db"
+        }
+      ],
+      "subject": "公募基金",
+      "tier": "official",
+      "level": "部门规章",
+      "issuer": "中国证券监督管理委员会",
+      "effectiveness": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "fetched_at": "2026-11-09T16:08:26"
+    },
+    {
+      "name": "公开募集证券投资基金销售机构监督管理办法",
+      "full_label": "公开募集证券投资基金销售机构监督管理办法 （2020年8月28日证监会令第175号公布 自2020年10月1日起施行）",
+      "decree": "证监会令第175号",
+      "publish_date": "2020-08-28",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653806/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653777/1653777/files/55712f20664c4750b88134f606275b13.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653777/1653777/files/da48c5481e974c18a15cf42423ad814d.pdf",
+      "source_page": "https://www.csrc.gov.cn/csrc/c106256/fg_2.shtml",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653777/1653777/files/55712f20664c4750b88134f606275b13.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 52399,
+          "file": "部门规章/公开募集证券投资基金销售机构监督管理办法_文字版.docx",
+          "sha256": "67839c67365bdbba4fa5a94a7102cfa20d1d7f1c55a3f81ddb0faba939dbc631"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653777/1653777/files/da48c5481e974c18a15cf42423ad814d.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 253966,
+          "file": "部门规章/公开募集证券投资基金销售机构监督管理办法_图片版.pdf",
+          "sha256": "700b033b04a6713a4a0cc33fae436c0993e53a51a462b0619280f57c3d7347a2"
+        }
+      ],
+      "subject": "公募基金",
+      "tier": "official",
+      "level": "部门规章",
+      "issuer": "中国证券监督管理委员会",
+      "effectiveness": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "fetched_at": "2026-11-09T16:08:27"
+    },
+    {
+      "name": "证券投资基金托管业务管理办法",
+      "full_label": "证券投资基金托管业务管理办法 （2013年4月2日证监会、原银监会证监会令第92号公布 根据2020年3月20日证监会令第166号《关于修改部分证券期货规章的决定》第一次修订 2020年7月10日证监会、银保监会证监会令第172号第二次修订）",
+      "decree": "证监会令第92号",
+      "publish_date": "2013-04-02",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653705/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653705/1653705/files/d0a609eb9b3e4f66a5dd958e365806a4.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653705/1653705/files/3aff82bca6a042eeb39a0e411c861166.pdf",
+      "source_page": "https://www.csrc.gov.cn/csrc/c106256/fg_2.shtml",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653705/1653705/files/d0a609eb9b3e4f66a5dd958e365806a4.docx",
+          "ok": true,
+          "cached": true,
+          "bytes": 47364,
+          "file": "部门规章/证券投资基金托管业务管理办法_文字版.docx",
+          "sha256": "46aac4409a48557ac8a35c1947630df944a47fda036d3a768b804bea74ff5bc0"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653705/1653705/files/3aff82bca6a042eeb39a0e411c861166.pdf",
+          "ok": true,
+          "cached": true,
+          "bytes": 217845,
+          "file": "部门规章/证券投资基金托管业务管理办法_图片版.pdf",
+          "sha256": "ca3f1bcd5356a6dfb849ec22436e59a3cab3ce1109d6b368e3ca37b7dd173fa9"
+        }
+      ],
+      "subject": "公募基金",
+      "tier": "official",
+      "level": "部门规章",
+      "issuer": "中国证券监督管理委员会",
+      "effectiveness": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "fetched_at": "2026-11-09T16:08:28"
+    },
+    {
+      "name": "证券公司和证券投资基金管理公司合规管理办法",
+      "full_label": "证券公司和证券投资基金管理公司合规管理办法 （2017年6月6日证监会令第133号公布 根据2020年3月20日证监会令第166号《关于修改部分证券期货规章的决定》修订）",
+      "decree": "证监会令第133号",
+      "publish_date": "2017-06-06",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653949/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653949/1653949/files/f2b8e901a9f142adb3a48504f23685fa.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653949/1653949/files/addf05b5b0fb4df7b3a0c09b64f598c0.pdf",
+      "source_page": "https://www.csrc.gov.cn/csrc/c106256/fg_3.shtml",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653949/1653949/files/f2b8e901a9f142adb3a48504f23685fa.docx",
+          "ok": true,
+          "http": 200,
+          "bytes": 49526,
+          "file": "部门规章/证券公司和证券投资基金管理公司合规管理办法_文字版.docx",
+          "sha256": "f07c5699b3a8c1f78e287ab0a2cfe64ddfe84c1a04f39b6988309d3886ac4a44"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653949/1653949/files/addf05b5b0fb4df7b3a0c09b64f598c0.pdf",
+          "ok": true,
+          "http": 200,
+          "bytes": 230306,
+          "file": "部门规章/证券公司和证券投资基金管理公司合规管理办法_图片版.pdf",
+          "sha256": "f12780c7db401e9b4f2379382ace7620c5def1e2f235fa19f6911b2d30f42298"
+        }
+      ],
+      "subject": "公募基金",
+      "tier": "official",
+      "level": "部门规章",
+      "issuer": "中国证券监督管理委员会",
+      "effectiveness": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "fetched_at": "2026-11-09T16:08:29"
+    },
+    {
+      "name": "公开募集证券投资基金信息披露管理办法",
+      "full_label": "公开募集证券投资基金信息披露管理办法 （2019年7月26日证监会令第158号公布 根据2020年3月20日证监会令第166号《关于修改部分证券期货规章的决定》修订）",
+      "decree": "证监会令第158号",
+      "publish_date": "2019-07-26",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653985/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653985/1653985/files/e2075a1e8c494bce93060f6ba58743b3.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653985/1653985/files/8ee3d31c632642dc841e5cf22b293420.pdf",
+      "source_page": "https://www.csrc.gov.cn/csrc/c106256/fg_3.shtml",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653985/1653985/files/e2075a1e8c494bce93060f6ba58743b3.docx",
+          "ok": true,
+          "http": 200,
+          "bytes": 52422,
+          "file": "部门规章/公开募集证券投资基金信息披露管理办法_文字版.docx",
+          "sha256": "7a7fabc36ffdcadd95cc3971551272bb07fbd117f65b5e9a25fdf6da4d9b9164"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653985/1653985/files/8ee3d31c632642dc841e5cf22b293420.pdf",
+          "ok": true,
+          "http": 200,
+          "bytes": 232464,
+          "file": "部门规章/公开募集证券投资基金信息披露管理办法_图片版.pdf",
+          "sha256": "4d8ac4d0fe23d875f7d867888646bd29eeb8842eb59e7484fa65d854a83d6e05"
+        }
+      ],
+      "subject": "公募基金",
+      "tier": "official",
+      "level": "部门规章",
+      "issuer": "中国证券监督管理委员会",
+      "effectiveness": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "fetched_at": "2026-11-09T16:08:30"
+    },
+    {
+      "name": "证券投资基金管理公司管理办法",
+      "full_label": "证券投资基金管理公司管理办法 （2004年9月16日证监会令第22号公布 2012年9月20日证监会令第84号第一次修订 根据2020年3月20日证监会令第166号《关于修改部分证券期货规章的决定》第二次修订）",
+      "decree": "证监会令第22号",
+      "publish_date": "2004-09-16",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653930/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653930/1653930/files/3986684e4f8e43f68ce38d9003926591.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653930/1653930/files/e04becd18ddf4f7e90ae1fb112d74f59.pdf",
+      "source_page": "https://www.csrc.gov.cn/csrc/c106256/fg_3.shtml",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653930/1653930/files/3986684e4f8e43f68ce38d9003926591.docx",
+          "ok": true,
+          "http": 200,
+          "bytes": 55950,
+          "file": "部门规章/证券投资基金管理公司管理办法_文字版.docx",
+          "sha256": "906b608b61379b7edd52ebb5301a8df9257baa70d6aa3cfe1affc00aa17783e3"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653930/1653930/files/e04becd18ddf4f7e90ae1fb112d74f59.pdf",
+          "ok": true,
+          "http": 200,
+          "bytes": 271490,
+          "file": "部门规章/证券投资基金管理公司管理办法_图片版.pdf",
+          "sha256": "e966a826e9828a3bec1509b803d32286d516ae0fe1a760eec6262827196cc0fc"
+        }
+      ],
+      "subject": "公募基金",
+      "tier": "official",
+      "level": "部门规章",
+      "issuer": "中国证券监督管理委员会",
+      "effectiveness": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "fetched_at": "2026-11-09T16:08:31"
+    },
+    {
+      "name": "货币市场基金监督管理办法",
+      "full_label": "货币市场基金监督管理办法 （2015年12月17日证监会、人民银行 证监会令第120号公布 自2016年2月1日起施行）",
+      "decree": "证监会令第120号",
+      "publish_date": "2015-12-17",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1654015/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1654015/1654015/files/03a13e9dd1ae45e5b591724bef5e9141.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1654015/1654015/files/52c60ebbeb5642e08f9f629bb8ed190e.pdf",
+      "source_page": "https://www.csrc.gov.cn/csrc/c106256/fg_4.shtml",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654015/1654015/files/03a13e9dd1ae45e5b591724bef5e9141.docx",
+          "ok": true,
+          "http": 200,
+          "bytes": 48278,
+          "file": "部门规章/货币市场基金监督管理办法_文字版.docx",
+          "sha256": "0430d3c810babf92bcdb3b1fa12901a7ddcbce40403aaa9956c285fefaeb9cbf"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1654015/1654015/files/52c60ebbeb5642e08f9f629bb8ed190e.pdf",
+          "ok": true,
+          "http": 200,
+          "bytes": 240129,
+          "file": "部门规章/货币市场基金监督管理办法_图片版.pdf",
+          "sha256": "db090b82650230262fcf1ac16937794b2136a57c6d9424ee671ae528cb84a8b1"
+        }
+      ],
+      "subject": "公募基金",
+      "tier": "official",
+      "level": "部门规章",
+      "issuer": "中国证券监督管理委员会",
+      "effectiveness": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "fetched_at": "2026-11-09T16:08:32"
+    },
+    {
+      "name": "公开募集证券投资基金运作管理办法",
+      "full_label": "公开募集证券投资基金运作管理办法 （2014年7月7日证监会令第104号公布 自2014年8月8日起施行）",
+      "decree": "证监会令第104号",
+      "publish_date": "2014-07-07",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653978/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653978/1653978/files/aed0c53c07ab4a809707e6a588f8c0cf.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653978/1653978/files/1b26d5810f794a629581888ace061d08.pdf",
+      "source_page": "https://www.csrc.gov.cn/csrc/c106256/fg_4.shtml",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653978/1653978/files/aed0c53c07ab4a809707e6a588f8c0cf.docx",
+          "ok": true,
+          "http": 200,
+          "bytes": 52017,
+          "file": "部门规章/公开募集证券投资基金运作管理办法_文字版.docx",
+          "sha256": "1513791116bc5c716490c4d087172da4ee450ae105c65a3015ca6598d486e52d"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653978/1653978/files/1b26d5810f794a629581888ace061d08.pdf",
+          "ok": true,
+          "http": 200,
+          "bytes": 246851,
+          "file": "部门规章/公开募集证券投资基金运作管理办法_图片版.pdf",
+          "sha256": "b8d078253e3048aebb2e057e953ee442ec41c864c4461c0008d4042f8a952511"
+        }
+      ],
+      "subject": "公募基金",
+      "tier": "official",
+      "level": "部门规章",
+      "issuer": "中国证券监督管理委员会",
+      "effectiveness": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "fetched_at": "2026-11-09T16:08:33"
+    },
+    {
+      "name": "公开募集证券投资基金风险准备金监督管理暂行办法",
+      "full_label": "公开募集证券投资基金风险准备金监督管理暂行办法 （2013年9月24日证监会令第94号公布 自2014年1月1日起施行）",
+      "decree": "证监会令第94号",
+      "publish_date": "2013-09-24",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653975/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653975/1653975/files/b7bf45c895a444aba469a876dbde3b15.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653975/1653975/files/57b202cc56a34e5c8eb704de8dbcc1e7.pdf",
+      "source_page": "https://www.csrc.gov.cn/csrc/c106256/fg_4.shtml",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653975/1653975/files/b7bf45c895a444aba469a876dbde3b15.docx",
+          "ok": true,
+          "http": 200,
+          "bytes": 41894,
+          "file": "部门规章/公开募集证券投资基金风险准备金监督管理暂行办法_文字版.docx",
+          "sha256": "7916d3f5efc7c1524807ed26903e812d83bf4695afa277e9e181b5e6205d29af"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653975/1653975/files/57b202cc56a34e5c8eb704de8dbcc1e7.pdf",
+          "ok": true,
+          "http": 200,
+          "bytes": 175300,
+          "file": "部门规章/公开募集证券投资基金风险准备金监督管理暂行办法_图片版.pdf",
+          "sha256": "d96c24390095b9977b5c52ef370d7a9a699c9a62bd8167db0a8f49b394324c0a"
+        }
+      ],
+      "subject": "公募基金",
+      "tier": "official",
+      "level": "部门规章",
+      "issuer": "中国证券监督管理委员会",
+      "effectiveness": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "fetched_at": "2026-11-09T16:08:34"
+    },
+    {
+      "name": "证券投资基金行业高级管理人员任职管理办法",
+      "full_label": "证券投资基金行业高级管理人员任职管理办法 (2004年9月22日证监会令第23号公布 自2004年10月1日起施行)",
+      "decree": "证监会令第23号",
+      "publish_date": "2004-09-22",
+      "detail_url": "https://www.csrc.gov.cn/csrc/c106256/c1653909/content.shtml",
+      "docx_url": "https://www.csrc.gov.cn/csrc/c106256/c1653909/1653909/files/71fb2e81d97a45e4921727e24d39bd37.docx",
+      "pdf_url": "https://www.csrc.gov.cn/csrc/c106256/c1653909/1653909/files/49d3fd41d0e24ce9a1b6ae7422c2005b.pdf",
+      "source_page": "https://www.csrc.gov.cn/csrc/c106256/fg_5.shtml",
+      "files": [
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653909/1653909/files/71fb2e81d97a45e4921727e24d39bd37.docx",
+          "ok": true,
+          "http": 200,
+          "bytes": 47575,
+          "file": "部门规章/证券投资基金行业高级管理人员任职管理办法_文字版.docx",
+          "sha256": "071988c4050ab0664e6ef050f7faa73b34980a82d2e3c5799806d2a944c4a077"
+        },
+        {
+          "url": "https://www.csrc.gov.cn/csrc/c106256/c1653909/1653909/files/49d3fd41d0e24ce9a1b6ae7422c2005b.pdf",
+          "ok": true,
+          "http": 200,
+          "bytes": 209149,
+          "file": "部门规章/证券投资基金行业高级管理人员任职管理办法_图片版.pdf",
+          "sha256": "04242f412f6590058d024bdc339a06bd7a08459410505574070ad9398d53e1f2"
+        }
+      ],
+      "subject": "公募基金",
+      "tier": "official",
+      "level": "部门规章",
+      "issuer": "中国证券监督管理委员会",
+      "effectiveness": "证监会规章库收录（现行有效口径，未逐条核对废止公告）",
+      "fetched_at": "2026-11-09T16:08:36"
+    }
+  ]
+}

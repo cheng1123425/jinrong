@@ -1,0 +1,8 @@
+{
+  "n_series": 4844,
+  "cfo_valid": 4615,
+  "d_rcv_valid": 4671,
+  "cfo_valid_share": 0.9527,
+  "d_rcv_valid_share": 0.9643,
+  "de_cumulate": "Q1 取当年累计；其余 = 本期累计 - 上期累计；跨年重置"
+}

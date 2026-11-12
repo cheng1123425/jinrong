@@ -1,0 +1,47 @@
+{
+  "spec": {
+    "name": "ocfs_demo",
+    "data": {
+      "prices": "runs/demo_data/prices.pkl",
+      "reports": "runs/demo_data/reports.pkl"
+    },
+    "formula": {
+      "type": "ocfs_residual",
+      "window": 8,
+      "min_n": 6,
+      "ddof": 3,
+      "scale": "none"
+    },
+    "align": {
+      "mode": "ann_date"
+    },
+    "universe": {
+      "exclude_financial": true,
+      "exclude_st": true,
+      "min_listed_days": 250
+    },
+    "preprocess": {
+      "winsorize": true,
+      "winsor_pct": [
+        1,
+        99
+      ],
+      "rank": true,
+      "neutralize": true
+    },
+    "evaluate": {
+      "rebalance": 21,
+      "hold": 21,
+      "layers": 5,
+      "cost_bps": 15
+    }
+  },
+  "checks": {
+    "missing_fields": [],
+    "align_mode": "ann_date",
+    "min_n": 6,
+    "ddof": 3,
+    "neutralize": true,
+    "cost_bps": 15
+  }
+}

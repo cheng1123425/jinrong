@@ -1,0 +1,29 @@
+{
+  "n_codes_price": 173,
+  "n_codes_before_filter": 200,
+  "n_codes_report": 173,
+  "n_reports": 4844,
+  "n_ann_dates": 1360,
+  "price_range": [
+    "2018-01-01",
+    "2025-06-30"
+  ],
+  "report_range": [
+    "2018-05-30",
+    "2025-04-19"
+  ],
+  "null_cfo_share": 0.0473,
+  "universe": {
+    "applied": {
+      "exclude_financial": true,
+      "exclude_st": true,
+      "min_listed_days": 250
+    },
+    "dropped": {
+      "financial": 16,
+      "st": 11,
+      "short_history": 0
+    },
+    "note": "min_listed_days 用价格历史长度近似（数据无上市日字段）"
+  }
+}

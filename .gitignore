@@ -1,0 +1,18 @@
+# 数据缓存：体积大，且单文件超过 GitHub 100MB 上限
+*.pkl
+*.parquet
+*.7z
+
+# 60 分钟原始数据解压目录（294MB）
+tmp60/
+
+# 测试中间产物（每次跑测试都会重建）
+pipeline/runs/_test/
+
+# Agent 运行时状态，不属于项目内容
+.workbuddy/
+
+# 系统文件
+Thumbs.db
+.DS_Store
+Desktop.ini

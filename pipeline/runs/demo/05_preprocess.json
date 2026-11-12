@@ -1,0 +1,14 @@
+{
+  "n_dates": 66,
+  "n_before": 11195,
+  "n_after": 11195,
+  "grid": "every_21d",
+  "coverage_mean": 169.62121212121212,
+  "winsorize": true,
+  "rank": true,
+  "neutralize": true,
+  "neutralize_by": [
+    "industry",
+    "ln_mktcap"
+  ]
+}

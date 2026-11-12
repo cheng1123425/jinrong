@@ -1,0 +1,104 @@
+{
+  "version": "1.0",
+  "principle": "代码负责「算」和「卡」，专家负责「定口径」和「解释」，PM 负责「放行」。25 条门禁全部由代码执行，没有一条靠 agent 自觉。",
+  "stages": {
+    "S0": {
+      "name": "规格校验",
+      "owner_role": "因子建模师",
+      "expert": "quant-factor-modeler",
+      "executor": "code",
+      "code": "stages.stage0_spec",
+      "artifact": "00_spec.json",
+      "gates": ["G0.1", "G0.2"],
+      "human_review": "公式是否等于研报定义（逐符号对照）",
+      "reviewer": "PM"
+    },
+    "S1": {
+      "name": "数据接入与股票池",
+      "owner_role": "数据工程",
+      "expert": "a-share-data-expert",
+      "executor": "code",
+      "code": "stages.stage1_ingest",
+      "artifact": "01_coverage.json",
+      "gates": ["G1.1", "G1.2", "G1.3"],
+      "human_review": "金融股是否该剔除、停牌/ST 处理是否符合经济含义",
+      "reviewer": "PM"
+    },
+    "S2": {
+      "name": "单季化",
+      "owner_role": "因子建模师",
+      "expert": "quant-factor-modeler",
+      "executor": "code",
+      "code": "stages.stage2_quarterize",
+      "artifact": "02_quarterly.pkl",
+      "gates": ["G2.1", "G2.2"],
+      "human_review": "累计值口径是否与数据源一致（Q1 是否跨年差分）",
+      "reviewer": "PM"
+    },
+    "S3": {
+      "name": "时点对齐",
+      "owner_role": "数据工程 + 合规",
+      "expert": "a-share-data-expert / capital-market-compliance-officer",
+      "executor": "code",
+      "code": "stages.stage3_asof",
+      "artifact": "03_asof.pkl",
+      "gates": ["G3.1", "G3.2"],
+      "human_review": "公告日字段是否等于真实披露日（抽样 20 只 × 4 期）",
+      "reviewer": "PM"
+    },
+    "S4": {
+      "name": "因子计算",
+      "owner_role": "因子建模师",
+      "expert": "quant-factor-modeler",
+      "executor": "code",
+      "code": "stages.stage4_factor",
+      "artifact": "04_factor_raw.pkl",
+      "gates": ["G4.1", "G4.2", "G4.3", "G4.4", "G4.5"],
+      "human_review": "回归设定是否符合经济逻辑（该不该加季节项/规模项）",
+      "reviewer": "PM"
+    },
+    "S5": {
+      "name": "截面标准化",
+      "owner_role": "量纲处理",
+      "expert": "data-normalization-analyst",
+      "executor": "code",
+      "code": "stages.stage5_standardize",
+      "artifact": "05_factor_final.pkl",
+      "gates": ["G5.1", "G5.2", "G5.3", "G5.4"],
+      "human_review": "中性化后经济含义是否还在；豁免理由是否成立",
+      "reviewer": "PM"
+    },
+    "S6": {
+      "name": "评价（IC/分层/多空/成本）",
+      "owner_role": "数模分析",
+      "expert": "quant-indicator-analyst",
+      "executor": "code",
+      "code": "stages.stage6_evaluate",
+      "artifact": "06_metrics.json",
+      "gates": ["G6.1", "G6.2", "G6.3", "G6.4"],
+      "human_review": "分层是「真单调」还是「两端翘」；成本假设是否贴近实际交易",
+      "reviewer": "PM"
+    },
+    "S7": {
+      "name": "报告",
+      "owner_role": "数模分析（写）+ PM（核）",
+      "expert": "quant-indicator-analyst / project-delivery-manager",
+      "executor": "code",
+      "code": "stages.stage7_report",
+      "artifact": "07_report.md",
+      "gates": ["G7.1", "G7.2", "G7.3", "G7.4"],
+      "human_review": "结论是否越界（暗示预测/荐股）；与上期判断是否如实对照",
+      "reviewer": "PM"
+    }
+  },
+  "cross_cutting": {
+    "市场环境解释": {"expert": "market-regime-analyst", "when": "需要判断因子表现是否只是行情 beta"},
+    "小波/多尺度特征": {"expert": "wavelet-multiscale-advisor", "when": "S4 需要跨尺度分解时"},
+    "合规红线": {"expert": "capital-market-compliance-officer", "when": "交易动作落地前"}
+  },
+  "not_delegated": [
+    "门禁判定（全代码，禁止 agent 改判）",
+    "spec 变更（必须走变更单）",
+    "验收结论（只能 PM 出）"
+  ]
+}
